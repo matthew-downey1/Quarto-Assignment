@@ -1,0 +1,163 @@
+---
+title: "***Crisis and Care***"
+subtitle: "***A global health service analysis pre and post the global financial crisis***"
+author: "**Matthew Downey**"
+date: "**02/04/2024**"
+format:
+  html:
+   theme: quartz
+   backgroundcolor: grey
+   toc: true 
+execute:
+  echo: false
+  warning: false
+  message: false
+---
+# **Introduction**
+This report presents an in-depth analysis of the coverage of **essential healthcare services worldwide**, employing interactive visualizations to explore key patterns and trends. In an era of global health challenges, understanding *healthcare accessibility* is crucial for informed decision-making and policy formulation. Through interactive tools, we navigate disparities, identify areas for improvement, and assess the impact on population health indicators. By synthesizing diverse data sources, this report aims to foster dialogue and drive efforts towards achieving *equitable healthcare access* globally.
+
+![Healthcare](Healthcare.jfif)
+
+```{r}
+#| label: setup
+#| include: false
+
+#Libraries
+library(tidyverse)
+library(plotly)
+library(dplyr)
+library(ggplot2)
+library(gapminder)
+
+# Importing of Files
+unicef_indicator_2 <- read_csv("unicef_indicator_2.csv")
+unicef_metadata <- read_csv("unicef_metadata.csv")
+
+#Joining both files
+data_join <- merge(unicef_indicator_2, unicef_metadata, by = c( "country" = "country"))
+
+data_join_2 <- full_join(unicef_indicator_2, unicef_metadata, by = c("country" = "country"))
+
+```
+
+## **International Outlook**
+```{r}
+#| fig-cap: "This comprehensive *world map* delineates the geographical spread of **essential healthcare services coverage**, offering a nuanced perspective on accessibility and the quality of healthcare provision in different nations in the year **2005**. Through a spectrum of colors, ranging from minimal to comprehensive coverage, this visualization illuminates disparities and highlights areas of need, guiding efforts towards equitable healthcare access and global health improvement initiatives."
+#| 
+map_world <- map_data("world")
+data_join_2005 <- unicef_indicator_2 %>%
+  filter(time_period == 2005)
+map_data_join_2005 <- full_join(data_join_2005, map_world, by = c("country" = "region"))
+
+ggplot(map_data_join_2005) +
+  aes(x = long, y = lat, group = group, fill = obs_value) + 
+  geom_polygon() +
+  labs(
+    x = "Longitude",
+    y = "Latitude",
+    title = "Coverage of Essential Health Services in 2005 (Units)") +
+  scale_fill_gradient(low = "yellow", high = "red", na.value = "grey") +
+  theme_classic() +
+  theme(
+    text = element_text(family = "serif", size = 11), 
+    axis.text.x = element_blank())
+```
+
+## **Care through Time**
+```{r}
+#| fig-cap: "This visual narrative traces the dynamic landscape of **essential healthcare service** provision across ten countries navigating *economic turbulence* in the aftermath of the *global financial downturn*. Spanning years of recovery and resilience, this temporal exploration sheds light on the ebb and flow of healthcare access amidst fiscal challenges, presenting a compelling narrative to inform strategic interventions and foster sustainable health system strengthening in post-crisis contexts. It is interesting to note that despite the *global economic crash*, the coverage of **essential health services** continued to improve in the years following."
+#| 
+selected_countries <- c("Portugal", "Malta", "Ireland", "Spain", "Slovenia", "Greece", "Romania", "Hungary", "Cyprus", "Latvia")
+filtered_data_1 <- unicef_indicator_2 %>% 
+  filter(country %in% selected_countries)
+
+
+time_series_plot_1 <- filtered_data_1 %>% 
+  ggplot() +
+  aes(x = time_period, y = obs_value, color = country) +
+  geom_line() +
+  labs(
+    x = "Year",
+    y = "Coverage (Units)",
+    title = "Coverage of Essential Health Services (2000-2021)") +
+  theme_classic() +
+  theme(
+    text = element_text(family = "serif", size = 11), 
+    axis.text.x = element_text(angle = 45, hjust = 1)
+  )
+ggplotly(time_series_plot_1)
+```
+
+![Financial Crash](Crash.jfif)
+
+
+## **Healthcare's Vital Impact**
+```{r}
+#| fig-cap: " Delving deep into the fabric of global health dynamics, this visualization intricately examines the correlations between **life expectancy** and the breadth of **essential healthcare services** accessible worldwide in **2021**. Unveiling a tapestry of interconnected factors, it sheds light on disparities and opportunities for enhancing healthcare equity, underscoring the imperative for informed strategies and collaborative efforts to advance public health outcomes on a global scale."
+#| 
+filtered_data_2021 <- data_join %>%
+  filter(year == 2021 & !is.na(obs_value) & !is.na(`Life expectancy at birth, total (years)`))
+
+scatter_plot_2 <- ggplot(filtered_data_2021) +
+  aes(x = obs_value, y = `Life expectancy at birth, total (years)`, color = country) +
+  geom_point(alpha = 2, show.legend = FALSE) +
+  geom_smooth(method = "lm", formula = y ~ x, se = FALSE, color = "black", linewidth = 0.8) +
+  scale_x_continuous(
+    limits = c(0, 100),
+    breaks = c(25, 75), 
+    labels = scales::unit_format(unit = "Units", scale = 1)
+  ) +
+  scale_size_continuous(guide = FALSE) +
+  labs(x = "Coverage of Essential Health Services (Units)",
+       y = "Life expectancy at birth", 
+       title = "An analysis of the relationship between life expectancy and the coverage of EHS in 2021") +
+  guides(color = "none", size = "none") +
+  theme_classic() +
+  theme(text = element_text(family = "serif", size = 11))
+
+ggplotly(scatter_plot_2)
+
+
+
+```
+
+## **Care in the face of adversity**
+```{r}
+#| fig-cap: "This comprehensive bar chart scrutinizes the **average life expectancy** trends across ten nations in **2010** grappling with economic challenges following the *global financial downturn*. Offering a detailed portrayal of post-crisis health trajectories, it underscores the resilience and perseverance of communities amidst financial adversity. By unraveling the intricacies of health outcomes, this visualization provides a compelling narrative to inform policy decisions and catalyze targeted interventions aimed at fostering sustainable well-being in post-crisis landscapes."
+#| 
+selected_countries <- c("Portugal", "Malta", "Ireland", "Spain", "Slovenia", "Greece", "Romania", "Hungary", "Cyprus", "Latvia")
+filtered_data_2 <- data_join_2 %>%
+  filter(country %in% selected_countries)
+
+years_to_include <- c(2010)
+filtered_data_2 <- filtered_data_2 %>%
+  filter(time_period %in% years_to_include)
+
+barchart_1 <- filtered_data_2 %>%
+  group_by(country, time_period) %>%
+  summarize(m_lifeexp = mean(`Life expectancy at birth, total (years)`, na.rm = TRUE)) %>%
+  ggplot() +
+  aes(x = country, y = m_lifeexp, fill = country) +  
+  geom_bar(stat = "identity") +
+  facet_wrap(~ time_period) +
+  labs(
+    x = "Country",
+    y = "Mean Life Expectancy (Years)",
+    title = "An analysis of the mean life expectancy of each country in 2005") +
+  theme_classic() +
+  theme(
+    text = element_text(family = "serif", size = 11), 
+    axis.text.x = element_blank()) +
+  theme(axis.text.x = element_text(angle = 45, hjust = 1))
+
+ggplotly(barchart_1)
+```
+
+# **Key Conclusions and Recommendations** 
+Having investigated the data, this report has endeavoured to examine the **coverage of essential healthcare services** across the countries of the Earth. This report makes the following conclusions.
+
+1. Despite the fiscal challenges presented by the global financial crisis, the coverage of **essential healthcare services** was *unaffected* by these funding cuts and periods of austerity.
+
+2. There is a *clear correlation* between **life expectancy at birth** and the level of **coverage of essential healthcare services** in a country.
+
+The aim of this report was to lay bare the areas of potential improvement in healthcare services across the world. It is our hope that this report improves healthcare policy formulation and decision-making for a more fair and equitable distribution of **essential healthcare services** across the world.

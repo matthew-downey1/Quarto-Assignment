@@ -1,0 +1,1436 @@
+country,alpha_2_code,alpha_3_code,numeric_code,indicator,time_period,obs_value,sex,unit_multiplier,unit_of_measure,observation_status,observation_confidentaility,time_period_activity_related_to_when_the_data_are_collected,current_age
+Afghanistan,AF,AFG,4,Coverage of essential health services,2000,23,Total,Units,Index,,Free,,Total
+Afghanistan,AF,AFG,4,Coverage of essential health services,2005,28,Total,Units,Index,,Free,,Total
+Afghanistan,AF,AFG,4,Coverage of essential health services,2010,29,Total,Units,Index,,Free,,Total
+Afghanistan,AF,AFG,4,Coverage of essential health services,2015,36,Total,Units,Index,,Free,,Total
+Afghanistan,AF,AFG,4,Coverage of essential health services,2017,41,Total,Units,Index,,Free,,Total
+Afghanistan,AF,AFG,4,Coverage of essential health services,2019,42,Total,Units,Index,,Free,,Total
+Afghanistan,AF,AFG,4,Coverage of essential health services,2021,41,Total,Units,Index,,Free,,Total
+Albania,AL,ALB,8,Coverage of essential health services,2000,43,Total,Units,Index,,Free,,Total
+Albania,AL,ALB,8,Coverage of essential health services,2005,52,Total,Units,Index,,Free,,Total
+Albania,AL,ALB,8,Coverage of essential health services,2010,57,Total,Units,Index,,Free,,Total
+Albania,AL,ALB,8,Coverage of essential health services,2015,61,Total,Units,Index,,Free,,Total
+Albania,AL,ALB,8,Coverage of essential health services,2017,61,Total,Units,Index,,Free,,Total
+Albania,AL,ALB,8,Coverage of essential health services,2019,64,Total,Units,Index,,Free,,Total
+Albania,AL,ALB,8,Coverage of essential health services,2021,64,Total,Units,Index,,Free,,Total
+Algeria,DZ,DZA,12,Coverage of essential health services,2000,56,Total,Units,Index,,Free,,Total
+Algeria,DZ,DZA,12,Coverage of essential health services,2005,61,Total,Units,Index,,Free,,Total
+Algeria,DZ,DZA,12,Coverage of essential health services,2010,67,Total,Units,Index,,Free,,Total
+Algeria,DZ,DZA,12,Coverage of essential health services,2015,74,Total,Units,Index,,Free,,Total
+Algeria,DZ,DZA,12,Coverage of essential health services,2017,74,Total,Units,Index,,Free,,Total
+Algeria,DZ,DZA,12,Coverage of essential health services,2019,74,Total,Units,Index,,Free,,Total
+Algeria,DZ,DZA,12,Coverage of essential health services,2021,74,Total,Units,Index,,Free,,Total
+Andorra,AD,AND,20,Coverage of essential health services,2000,67,Total,Units,Index,,Free,,Total
+Andorra,AD,AND,20,Coverage of essential health services,2005,71,Total,Units,Index,,Free,,Total
+Andorra,AD,AND,20,Coverage of essential health services,2010,74,Total,Units,Index,,Free,,Total
+Andorra,AD,AND,20,Coverage of essential health services,2015,75,Total,Units,Index,,Free,,Total
+Andorra,AD,AND,20,Coverage of essential health services,2017,76,Total,Units,Index,,Free,,Total
+Andorra,AD,AND,20,Coverage of essential health services,2019,78,Total,Units,Index,,Free,,Total
+Andorra,AD,AND,20,Coverage of essential health services,2021,79,Total,Units,Index,,Free,,Total
+Angola,AO,AGO,24,Coverage of essential health services,2000,21,Total,Units,Index,,Free,,Total
+Angola,AO,AGO,24,Coverage of essential health services,2005,24,Total,Units,Index,,Free,,Total
+Angola,AO,AGO,24,Coverage of essential health services,2010,31,Total,Units,Index,,Free,,Total
+Angola,AO,AGO,24,Coverage of essential health services,2015,36,Total,Units,Index,,Free,,Total
+Angola,AO,AGO,24,Coverage of essential health services,2017,40,Total,Units,Index,,Free,,Total
+Angola,AO,AGO,24,Coverage of essential health services,2019,39,Total,Units,Index,,Free,,Total
+Angola,AO,AGO,24,Coverage of essential health services,2021,37,Total,Units,Index,,Free,,Total
+Antigua and Barbuda,AG,ATG,28,Coverage of essential health services,2000,54,Total,Units,Index,,Free,,Total
+Antigua and Barbuda,AG,ATG,28,Coverage of essential health services,2005,67,Total,Units,Index,,Free,,Total
+Antigua and Barbuda,AG,ATG,28,Coverage of essential health services,2010,73,Total,Units,Index,,Free,,Total
+Antigua and Barbuda,AG,ATG,28,Coverage of essential health services,2015,78,Total,Units,Index,,Free,,Total
+Antigua and Barbuda,AG,ATG,28,Coverage of essential health services,2017,77,Total,Units,Index,,Free,,Total
+Antigua and Barbuda,AG,ATG,28,Coverage of essential health services,2019,75,Total,Units,Index,,Free,,Total
+Antigua and Barbuda,AG,ATG,28,Coverage of essential health services,2021,76,Total,Units,Index,,Free,,Total
+Argentina,AR,ARG,32,Coverage of essential health services,2000,68,Total,Units,Index,,Free,,Total
+Argentina,AR,ARG,32,Coverage of essential health services,2005,74,Total,Units,Index,,Free,,Total
+Argentina,AR,ARG,32,Coverage of essential health services,2010,76,Total,Units,Index,,Free,,Total
+Argentina,AR,ARG,32,Coverage of essential health services,2015,80,Total,Units,Index,,Free,,Total
+Argentina,AR,ARG,32,Coverage of essential health services,2017,79,Total,Units,Index,,Free,,Total
+Argentina,AR,ARG,32,Coverage of essential health services,2019,78,Total,Units,Index,,Free,,Total
+Argentina,AR,ARG,32,Coverage of essential health services,2021,79,Total,Units,Index,,Free,,Total
+Armenia,AM,ARM,51,Coverage of essential health services,2000,44,Total,Units,Index,,Free,,Total
+Armenia,AM,ARM,51,Coverage of essential health services,2005,51,Total,Units,Index,,Free,,Total
+Armenia,AM,ARM,51,Coverage of essential health services,2010,60,Total,Units,Index,,Free,,Total
+Armenia,AM,ARM,51,Coverage of essential health services,2015,67,Total,Units,Index,,Free,,Total
+Armenia,AM,ARM,51,Coverage of essential health services,2017,69,Total,Units,Index,,Free,,Total
+Armenia,AM,ARM,51,Coverage of essential health services,2019,70,Total,Units,Index,,Free,,Total
+Armenia,AM,ARM,51,Coverage of essential health services,2021,68,Total,Units,Index,,Free,,Total
+Australia,AU,AUS,36,Coverage of essential health services,2000,81,Total,Units,Index,,Free,,Total
+Australia,AU,AUS,36,Coverage of essential health services,2005,83,Total,Units,Index,,Free,,Total
+Australia,AU,AUS,36,Coverage of essential health services,2010,84,Total,Units,Index,,Free,,Total
+Australia,AU,AUS,36,Coverage of essential health services,2015,87,Total,Units,Index,,Free,,Total
+Australia,AU,AUS,36,Coverage of essential health services,2017,87,Total,Units,Index,,Free,,Total
+Australia,AU,AUS,36,Coverage of essential health services,2019,87,Total,Units,Index,,Free,,Total
+Australia,AU,AUS,36,Coverage of essential health services,2021,87,Total,Units,Index,,Free,,Total
+Austria,AT,AUT,40,Coverage of essential health services,2000,70,Total,Units,Index,,Free,,Total
+Austria,AT,AUT,40,Coverage of essential health services,2005,77,Total,Units,Index,,Free,,Total
+Austria,AT,AUT,40,Coverage of essential health services,2010,81,Total,Units,Index,,Free,,Total
+Austria,AT,AUT,40,Coverage of essential health services,2015,84,Total,Units,Index,,Free,,Total
+Austria,AT,AUT,40,Coverage of essential health services,2017,84,Total,Units,Index,,Free,,Total
+Austria,AT,AUT,40,Coverage of essential health services,2019,84,Total,Units,Index,,Free,,Total
+Austria,AT,AUT,40,Coverage of essential health services,2021,85,Total,Units,Index,,Free,,Total
+Azerbaijan,AZ,AZE,31,Coverage of essential health services,2000,42,Total,Units,Index,,Free,,Total
+Azerbaijan,AZ,AZE,31,Coverage of essential health services,2005,38,Total,Units,Index,,Free,,Total
+Azerbaijan,AZ,AZE,31,Coverage of essential health services,2010,51,Total,Units,Index,,Free,,Total
+Azerbaijan,AZ,AZE,31,Coverage of essential health services,2015,62,Total,Units,Index,,Free,,Total
+Azerbaijan,AZ,AZE,31,Coverage of essential health services,2017,64,Total,Units,Index,,Free,,Total
+Azerbaijan,AZ,AZE,31,Coverage of essential health services,2019,67,Total,Units,Index,,Free,,Total
+Azerbaijan,AZ,AZE,31,Coverage of essential health services,2021,66,Total,Units,Index,,Free,,Total
+Bahamas,BS,BHS,44,Coverage of essential health services,2000,54,Total,Units,Index,,Free,,Total
+Bahamas,BS,BHS,44,Coverage of essential health services,2005,71,Total,Units,Index,,Free,,Total
+Bahamas,BS,BHS,44,Coverage of essential health services,2010,73,Total,Units,Index,,Free,,Total
+Bahamas,BS,BHS,44,Coverage of essential health services,2015,77,Total,Units,Index,,Free,,Total
+Bahamas,BS,BHS,44,Coverage of essential health services,2017,79,Total,Units,Index,,Free,,Total
+Bahamas,BS,BHS,44,Coverage of essential health services,2019,79,Total,Units,Index,,Free,,Total
+Bahamas,BS,BHS,44,Coverage of essential health services,2021,77,Total,Units,Index,,Free,,Total
+Bahrain,BH,BHR,48,Coverage of essential health services,2000,60,Total,Units,Index,,Free,,Total
+Bahrain,BH,BHR,48,Coverage of essential health services,2005,64,Total,Units,Index,,Free,,Total
+Bahrain,BH,BHR,48,Coverage of essential health services,2010,68,Total,Units,Index,,Free,,Total
+Bahrain,BH,BHR,48,Coverage of essential health services,2015,73,Total,Units,Index,,Free,,Total
+Bahrain,BH,BHR,48,Coverage of essential health services,2017,74,Total,Units,Index,,Free,,Total
+Bahrain,BH,BHR,48,Coverage of essential health services,2019,76,Total,Units,Index,,Free,,Total
+Bahrain,BH,BHR,48,Coverage of essential health services,2021,76,Total,Units,Index,,Free,,Total
+Bangladesh,BD,BGD,50,Coverage of essential health services,2000,23,Total,Units,Index,,Free,,Total
+Bangladesh,BD,BGD,50,Coverage of essential health services,2005,27,Total,Units,Index,,Free,,Total
+Bangladesh,BD,BGD,50,Coverage of essential health services,2010,37,Total,Units,Index,,Free,,Total
+Bangladesh,BD,BGD,50,Coverage of essential health services,2015,45,Total,Units,Index,,Free,,Total
+Bangladesh,BD,BGD,50,Coverage of essential health services,2017,48,Total,Units,Index,,Free,,Total
+Bangladesh,BD,BGD,50,Coverage of essential health services,2019,50,Total,Units,Index,,Free,,Total
+Bangladesh,BD,BGD,50,Coverage of essential health services,2021,52,Total,Units,Index,,Free,,Total
+Barbados,BB,BRB,52,Coverage of essential health services,2000,54,Total,Units,Index,,Free,,Total
+Barbados,BB,BRB,52,Coverage of essential health services,2005,72,Total,Units,Index,,Free,,Total
+Barbados,BB,BRB,52,Coverage of essential health services,2010,75,Total,Units,Index,,Free,,Total
+Barbados,BB,BRB,52,Coverage of essential health services,2015,80,Total,Units,Index,,Free,,Total
+Barbados,BB,BRB,52,Coverage of essential health services,2017,80,Total,Units,Index,,Free,,Total
+Barbados,BB,BRB,52,Coverage of essential health services,2019,79,Total,Units,Index,,Free,,Total
+Barbados,BB,BRB,52,Coverage of essential health services,2021,77,Total,Units,Index,,Free,,Total
+Belarus,BY,BLR,112,Coverage of essential health services,2000,53,Total,Units,Index,,Free,,Total
+Belarus,BY,BLR,112,Coverage of essential health services,2005,59,Total,Units,Index,,Free,,Total
+Belarus,BY,BLR,112,Coverage of essential health services,2010,70,Total,Units,Index,,Free,,Total
+Belarus,BY,BLR,112,Coverage of essential health services,2015,76,Total,Units,Index,,Free,,Total
+Belarus,BY,BLR,112,Coverage of essential health services,2017,78,Total,Units,Index,,Free,,Total
+Belarus,BY,BLR,112,Coverage of essential health services,2019,81,Total,Units,Index,,Free,,Total
+Belarus,BY,BLR,112,Coverage of essential health services,2021,79,Total,Units,Index,,Free,,Total
+Belgium,BE,BEL,56,Coverage of essential health services,2000,77,Total,Units,Index,,Free,,Total
+Belgium,BE,BEL,56,Coverage of essential health services,2005,81,Total,Units,Index,,Free,,Total
+Belgium,BE,BEL,56,Coverage of essential health services,2010,83,Total,Units,Index,,Free,,Total
+Belgium,BE,BEL,56,Coverage of essential health services,2015,86,Total,Units,Index,,Free,,Total
+Belgium,BE,BEL,56,Coverage of essential health services,2017,87,Total,Units,Index,,Free,,Total
+Belgium,BE,BEL,56,Coverage of essential health services,2019,87,Total,Units,Index,,Free,,Total
+Belgium,BE,BEL,56,Coverage of essential health services,2021,86,Total,Units,Index,,Free,,Total
+Belize,BZ,BLZ,84,Coverage of essential health services,2000,47,Total,Units,Index,,Free,,Total
+Belize,BZ,BLZ,84,Coverage of essential health services,2005,58,Total,Units,Index,,Free,,Total
+Belize,BZ,BLZ,84,Coverage of essential health services,2010,64,Total,Units,Index,,Free,,Total
+Belize,BZ,BLZ,84,Coverage of essential health services,2015,69,Total,Units,Index,,Free,,Total
+Belize,BZ,BLZ,84,Coverage of essential health services,2017,68,Total,Units,Index,,Free,,Total
+Belize,BZ,BLZ,84,Coverage of essential health services,2019,69,Total,Units,Index,,Free,,Total
+Belize,BZ,BLZ,84,Coverage of essential health services,2021,68,Total,Units,Index,,Free,,Total
+Benin,BJ,BEN,204,Coverage of essential health services,2000,21,Total,Units,Index,,Free,,Total
+Benin,BJ,BEN,204,Coverage of essential health services,2005,22,Total,Units,Index,,Free,,Total
+Benin,BJ,BEN,204,Coverage of essential health services,2010,33,Total,Units,Index,,Free,,Total
+Benin,BJ,BEN,204,Coverage of essential health services,2015,35,Total,Units,Index,,Free,,Total
+Benin,BJ,BEN,204,Coverage of essential health services,2017,34,Total,Units,Index,,Free,,Total
+Benin,BJ,BEN,204,Coverage of essential health services,2019,35,Total,Units,Index,,Free,,Total
+Benin,BJ,BEN,204,Coverage of essential health services,2021,38,Total,Units,Index,,Free,,Total
+Bhutan,BT,BTN,64,Coverage of essential health services,2000,35,Total,Units,Index,,Free,,Total
+Bhutan,BT,BTN,64,Coverage of essential health services,2005,37,Total,Units,Index,,Free,,Total
+Bhutan,BT,BTN,64,Coverage of essential health services,2010,44,Total,Units,Index,,Free,,Total
+Bhutan,BT,BTN,64,Coverage of essential health services,2015,53,Total,Units,Index,,Free,,Total
+Bhutan,BT,BTN,64,Coverage of essential health services,2017,56,Total,Units,Index,,Free,,Total
+Bhutan,BT,BTN,64,Coverage of essential health services,2019,60,Total,Units,Index,,Free,,Total
+Bhutan,BT,BTN,64,Coverage of essential health services,2021,60,Total,Units,Index,,Free,,Total
+"Bolivia, Plurinational State of",BO,BOL,68,Coverage of essential health services,2000,37,Total,Units,Index,,Free,,Total
+Bolivia,BO,BOL,68,Coverage of essential health services,2000,37,Total,Units,Index,,Free,,Total
+"Bolivia, Plurinational State of",BO,BOL,68,Coverage of essential health services,2005,39,Total,Units,Index,,Free,,Total
+Bolivia,BO,BOL,68,Coverage of essential health services,2005,39,Total,Units,Index,,Free,,Total
+"Bolivia, Plurinational State of",BO,BOL,68,Coverage of essential health services,2010,47,Total,Units,Index,,Free,,Total
+Bolivia,BO,BOL,68,Coverage of essential health services,2010,47,Total,Units,Index,,Free,,Total
+"Bolivia, Plurinational State of",BO,BOL,68,Coverage of essential health services,2015,60,Total,Units,Index,,Free,,Total
+Bolivia,BO,BOL,68,Coverage of essential health services,2015,60,Total,Units,Index,,Free,,Total
+"Bolivia, Plurinational State of",BO,BOL,68,Coverage of essential health services,2017,64,Total,Units,Index,,Free,,Total
+Bolivia,BO,BOL,68,Coverage of essential health services,2017,64,Total,Units,Index,,Free,,Total
+"Bolivia, Plurinational State of",BO,BOL,68,Coverage of essential health services,2019,65,Total,Units,Index,,Free,,Total
+Bolivia,BO,BOL,68,Coverage of essential health services,2019,65,Total,Units,Index,,Free,,Total
+"Bolivia, Plurinational State of",BO,BOL,68,Coverage of essential health services,2021,65,Total,Units,Index,,Free,,Total
+Bolivia,BO,BOL,68,Coverage of essential health services,2021,65,Total,Units,Index,,Free,,Total
+Bosnia and Herzegovina,BA,BIH,70,Coverage of essential health services,2000,44,Total,Units,Index,,Free,,Total
+Bosnia and Herzegovina,BA,BIH,70,Coverage of essential health services,2005,61,Total,Units,Index,,Free,,Total
+Bosnia and Herzegovina,BA,BIH,70,Coverage of essential health services,2010,62,Total,Units,Index,,Free,,Total
+Bosnia and Herzegovina,BA,BIH,70,Coverage of essential health services,2015,68,Total,Units,Index,,Free,,Total
+Bosnia and Herzegovina,BA,BIH,70,Coverage of essential health services,2017,70,Total,Units,Index,,Free,,Total
+Bosnia and Herzegovina,BA,BIH,70,Coverage of essential health services,2019,67,Total,Units,Index,,Free,,Total
+Bosnia and Herzegovina,BA,BIH,70,Coverage of essential health services,2021,66,Total,Units,Index,,Free,,Total
+Botswana,BW,BWA,72,Coverage of essential health services,2000,35,Total,Units,Index,,Free,,Total
+Botswana,BW,BWA,72,Coverage of essential health services,2005,48,Total,Units,Index,,Free,,Total
+Botswana,BW,BWA,72,Coverage of essential health services,2010,54,Total,Units,Index,,Free,,Total
+Botswana,BW,BWA,72,Coverage of essential health services,2015,58,Total,Units,Index,,Free,,Total
+Botswana,BW,BWA,72,Coverage of essential health services,2017,58,Total,Units,Index,,Free,,Total
+Botswana,BW,BWA,72,Coverage of essential health services,2019,55,Total,Units,Index,,Free,,Total
+Botswana,BW,BWA,72,Coverage of essential health services,2021,55,Total,Units,Index,,Free,,Total
+Brazil,BR,BRA,76,Coverage of essential health services,2000,68,Total,Units,Index,,Free,,Total
+Brazil,BR,BRA,76,Coverage of essential health services,2005,73,Total,Units,Index,,Free,,Total
+Brazil,BR,BRA,76,Coverage of essential health services,2010,76,Total,Units,Index,,Free,,Total
+Brazil,BR,BRA,76,Coverage of essential health services,2015,82,Total,Units,Index,,Free,,Total
+Brazil,BR,BRA,76,Coverage of essential health services,2017,82,Total,Units,Index,,Free,,Total
+Brazil,BR,BRA,76,Coverage of essential health services,2019,81,Total,Units,Index,,Free,,Total
+Brazil,BR,BRA,76,Coverage of essential health services,2021,80,Total,Units,Index,,Free,,Total
+Brunei Darussalam,BN,BRN,96,Coverage of essential health services,2000,49,Total,Units,Index,,Free,,Total
+Brunei,BN,BRN,96,Coverage of essential health services,2000,49,Total,Units,Index,,Free,,Total
+Brunei Darussalam,BN,BRN,96,Coverage of essential health services,2005,64,Total,Units,Index,,Free,,Total
+Brunei,BN,BRN,96,Coverage of essential health services,2005,64,Total,Units,Index,,Free,,Total
+Brunei Darussalam,BN,BRN,96,Coverage of essential health services,2010,70,Total,Units,Index,,Free,,Total
+Brunei,BN,BRN,96,Coverage of essential health services,2010,70,Total,Units,Index,,Free,,Total
+Brunei Darussalam,BN,BRN,96,Coverage of essential health services,2015,75,Total,Units,Index,,Free,,Total
+Brunei,BN,BRN,96,Coverage of essential health services,2015,75,Total,Units,Index,,Free,,Total
+Brunei Darussalam,BN,BRN,96,Coverage of essential health services,2017,78,Total,Units,Index,,Free,,Total
+Brunei,BN,BRN,96,Coverage of essential health services,2017,78,Total,Units,Index,,Free,,Total
+Brunei Darussalam,BN,BRN,96,Coverage of essential health services,2019,77,Total,Units,Index,,Free,,Total
+Brunei,BN,BRN,96,Coverage of essential health services,2019,77,Total,Units,Index,,Free,,Total
+Brunei Darussalam,BN,BRN,96,Coverage of essential health services,2021,78,Total,Units,Index,,Free,,Total
+Brunei,BN,BRN,96,Coverage of essential health services,2021,78,Total,Units,Index,,Free,,Total
+Bulgaria,BG,BGR,100,Coverage of essential health services,2000,56,Total,Units,Index,,Free,,Total
+Bulgaria,BG,BGR,100,Coverage of essential health services,2005,61,Total,Units,Index,,Free,,Total
+Bulgaria,BG,BGR,100,Coverage of essential health services,2010,65,Total,Units,Index,,Free,,Total
+Bulgaria,BG,BGR,100,Coverage of essential health services,2015,70,Total,Units,Index,,Free,,Total
+Bulgaria,BG,BGR,100,Coverage of essential health services,2017,72,Total,Units,Index,,Free,,Total
+Bulgaria,BG,BGR,100,Coverage of essential health services,2019,76,Total,Units,Index,,Free,,Total
+Bulgaria,BG,BGR,100,Coverage of essential health services,2021,73,Total,Units,Index,,Free,,Total
+Burkina Faso,BF,BFA,854,Coverage of essential health services,2000,15,Total,Units,Index,,Free,,Total
+Burkina Faso,BF,BFA,854,Coverage of essential health services,2005,21,Total,Units,Index,,Free,,Total
+Burkina Faso,BF,BFA,854,Coverage of essential health services,2010,30,Total,Units,Index,,Free,,Total
+Burkina Faso,BF,BFA,854,Coverage of essential health services,2015,35,Total,Units,Index,,Free,,Total
+Burkina Faso,BF,BFA,854,Coverage of essential health services,2017,38,Total,Units,Index,,Free,,Total
+Burkina Faso,BF,BFA,854,Coverage of essential health services,2019,38,Total,Units,Index,,Free,,Total
+Burkina Faso,BF,BFA,854,Coverage of essential health services,2021,40,Total,Units,Index,,Free,,Total
+Burundi,BI,BDI,108,Coverage of essential health services,2000,19,Total,Units,Index,,Free,,Total
+Burundi,BI,BDI,108,Coverage of essential health services,2005,24,Total,Units,Index,,Free,,Total
+Burundi,BI,BDI,108,Coverage of essential health services,2010,33,Total,Units,Index,,Free,,Total
+Burundi,BI,BDI,108,Coverage of essential health services,2015,40,Total,Units,Index,,Free,,Total
+Burundi,BI,BDI,108,Coverage of essential health services,2017,40,Total,Units,Index,,Free,,Total
+Burundi,BI,BDI,108,Coverage of essential health services,2019,42,Total,Units,Index,,Free,,Total
+Burundi,BI,BDI,108,Coverage of essential health services,2021,41,Total,Units,Index,,Free,,Total
+Cape Verde,CV,CPV,132,Coverage of essential health services,2000,43,Total,Units,Index,,Free,,Total
+Cape Verde,CV,CPV,132,Coverage of essential health services,2005,54,Total,Units,Index,,Free,,Total
+Cape Verde,CV,CPV,132,Coverage of essential health services,2010,63,Total,Units,Index,,Free,,Total
+Cape Verde,CV,CPV,132,Coverage of essential health services,2015,68,Total,Units,Index,,Free,,Total
+Cape Verde,CV,CPV,132,Coverage of essential health services,2017,70,Total,Units,Index,,Free,,Total
+Cape Verde,CV,CPV,132,Coverage of essential health services,2019,69,Total,Units,Index,,Free,,Total
+Cape Verde,CV,CPV,132,Coverage of essential health services,2021,71,Total,Units,Index,,Free,,Total
+Cambodia,KH,KHM,116,Coverage of essential health services,2000,24,Total,Units,Index,,Free,,Total
+Cambodia,KH,KHM,116,Coverage of essential health services,2005,37,Total,Units,Index,,Free,,Total
+Cambodia,KH,KHM,116,Coverage of essential health services,2010,50,Total,Units,Index,,Free,,Total
+Cambodia,KH,KHM,116,Coverage of essential health services,2015,56,Total,Units,Index,,Free,,Total
+Cambodia,KH,KHM,116,Coverage of essential health services,2017,60,Total,Units,Index,,Free,,Total
+Cambodia,KH,KHM,116,Coverage of essential health services,2019,58,Total,Units,Index,,Free,,Total
+Cambodia,KH,KHM,116,Coverage of essential health services,2021,58,Total,Units,Index,,Free,,Total
+Cameroon,CM,CMR,120,Coverage of essential health services,2000,22,Total,Units,Index,,Free,,Total
+Cameroon,CM,CMR,120,Coverage of essential health services,2005,28,Total,Units,Index,,Free,,Total
+Cameroon,CM,CMR,120,Coverage of essential health services,2010,33,Total,Units,Index,,Free,,Total
+Cameroon,CM,CMR,120,Coverage of essential health services,2015,42,Total,Units,Index,,Free,,Total
+Cameroon,CM,CMR,120,Coverage of essential health services,2017,43,Total,Units,Index,,Free,,Total
+Cameroon,CM,CMR,120,Coverage of essential health services,2019,43,Total,Units,Index,,Free,,Total
+Cameroon,CM,CMR,120,Coverage of essential health services,2021,44,Total,Units,Index,,Free,,Total
+Canada,CA,CAN,124,Coverage of essential health services,2000,74,Total,Units,Index,,Free,,Total
+Canada,CA,CAN,124,Coverage of essential health services,2005,79,Total,Units,Index,,Free,,Total
+Canada,CA,CAN,124,Coverage of essential health services,2010,83,Total,Units,Index,,Free,,Total
+Canada,CA,CAN,124,Coverage of essential health services,2015,90,Total,Units,Index,,Free,,Total
+Canada,CA,CAN,124,Coverage of essential health services,2017,90,Total,Units,Index,,Free,,Total
+Canada,CA,CAN,124,Coverage of essential health services,2019,91,Total,Units,Index,,Free,,Total
+Canada,CA,CAN,124,Coverage of essential health services,2021,91,Total,Units,Index,,Free,,Total
+Central African Republic,CF,CAF,140,Coverage of essential health services,2000,18,Total,Units,Index,,Free,,Total
+Central African Republic,CF,CAF,140,Coverage of essential health services,2005,19,Total,Units,Index,,Free,,Total
+Central African Republic,CF,CAF,140,Coverage of essential health services,2010,26,Total,Units,Index,,Free,,Total
+Central African Republic,CF,CAF,140,Coverage of essential health services,2015,30,Total,Units,Index,,Free,,Total
+Central African Republic,CF,CAF,140,Coverage of essential health services,2017,30,Total,Units,Index,,Free,,Total
+Central African Republic,CF,CAF,140,Coverage of essential health services,2019,31,Total,Units,Index,,Free,,Total
+Central African Republic,CF,CAF,140,Coverage of essential health services,2021,32,Total,Units,Index,,Free,,Total
+Chad,TD,TCD,148,Coverage of essential health services,2000,15,Total,Units,Index,,Free,,Total
+Chad,TD,TCD,148,Coverage of essential health services,2005,16,Total,Units,Index,,Free,,Total
+Chad,TD,TCD,148,Coverage of essential health services,2010,22,Total,Units,Index,,Free,,Total
+Chad,TD,TCD,148,Coverage of essential health services,2015,27,Total,Units,Index,,Free,,Total
+Chad,TD,TCD,148,Coverage of essential health services,2017,28,Total,Units,Index,,Free,,Total
+Chad,TD,TCD,148,Coverage of essential health services,2019,27,Total,Units,Index,,Free,,Total
+Chad,TD,TCD,148,Coverage of essential health services,2021,29,Total,Units,Index,,Free,,Total
+Chile,CL,CHL,152,Coverage of essential health services,2000,65,Total,Units,Index,,Free,,Total
+Chile,CL,CHL,152,Coverage of essential health services,2005,74,Total,Units,Index,,Free,,Total
+Chile,CL,CHL,152,Coverage of essential health services,2010,77,Total,Units,Index,,Free,,Total
+Chile,CL,CHL,152,Coverage of essential health services,2015,79,Total,Units,Index,,Free,,Total
+Chile,CL,CHL,152,Coverage of essential health services,2017,82,Total,Units,Index,,Free,,Total
+Chile,CL,CHL,152,Coverage of essential health services,2019,82,Total,Units,Index,,Free,,Total
+Chile,CL,CHL,152,Coverage of essential health services,2021,82,Total,Units,Index,,Free,,Total
+China,CN,CHN,156,Coverage of essential health services,2000,47,Total,Units,Index,,Free,,Total
+China,CN,CHN,156,Coverage of essential health services,2005,57,Total,Units,Index,,Free,,Total
+China,CN,CHN,156,Coverage of essential health services,2010,66,Total,Units,Index,,Free,,Total
+China,CN,CHN,156,Coverage of essential health services,2015,76,Total,Units,Index,,Free,,Total
+China,CN,CHN,156,Coverage of essential health services,2017,79,Total,Units,Index,,Free,,Total
+China,CN,CHN,156,Coverage of essential health services,2019,81,Total,Units,Index,,Free,,Total
+China,CN,CHN,156,Coverage of essential health services,2021,81,Total,Units,Index,,Free,,Total
+Colombia,CO,COL,170,Coverage of essential health services,2000,52,Total,Units,Index,,Free,,Total
+Colombia,CO,COL,170,Coverage of essential health services,2005,63,Total,Units,Index,,Free,,Total
+Colombia,CO,COL,170,Coverage of essential health services,2010,68,Total,Units,Index,,Free,,Total
+Colombia,CO,COL,170,Coverage of essential health services,2015,78,Total,Units,Index,,Free,,Total
+Colombia,CO,COL,170,Coverage of essential health services,2017,80,Total,Units,Index,,Free,,Total
+Colombia,CO,COL,170,Coverage of essential health services,2019,80,Total,Units,Index,,Free,,Total
+Colombia,CO,COL,170,Coverage of essential health services,2021,80,Total,Units,Index,,Free,,Total
+Comoros,KM,COM,174,Coverage of essential health services,2000,26,Total,Units,Index,,Free,,Total
+Comoros,KM,COM,174,Coverage of essential health services,2005,32,Total,Units,Index,,Free,,Total
+Comoros,KM,COM,174,Coverage of essential health services,2010,39,Total,Units,Index,,Free,,Total
+Comoros,KM,COM,174,Coverage of essential health services,2015,44,Total,Units,Index,,Free,,Total
+Comoros,KM,COM,174,Coverage of essential health services,2017,46,Total,Units,Index,,Free,,Total
+Comoros,KM,COM,174,Coverage of essential health services,2019,46,Total,Units,Index,,Free,,Total
+Comoros,KM,COM,174,Coverage of essential health services,2021,48,Total,Units,Index,,Free,,Total
+Congo,CG,COG,178,Coverage of essential health services,2000,21,Total,Units,Index,,Free,,Total
+Congo,CG,COG,178,Coverage of essential health services,2005,25,Total,Units,Index,,Free,,Total
+Congo,CG,COG,178,Coverage of essential health services,2010,30,Total,Units,Index,,Free,,Total
+Congo,CG,COG,178,Coverage of essential health services,2015,38,Total,Units,Index,,Free,,Total
+Congo,CG,COG,178,Coverage of essential health services,2017,36,Total,Units,Index,,Free,,Total
+Congo,CG,COG,178,Coverage of essential health services,2019,39,Total,Units,Index,,Free,,Total
+Congo,CG,COG,178,Coverage of essential health services,2021,41,Total,Units,Index,,Free,,Total
+Cook Islands,CK,COK,184,Coverage of essential health services,2000,47,Total,Units,Index,,Free,,Total
+Cook Islands,CK,COK,184,Coverage of essential health services,2005,50,Total,Units,Index,,Free,,Total
+Cook Islands,CK,COK,184,Coverage of essential health services,2010,61,Total,Units,Index,,Free,,Total
+Cook Islands,CK,COK,184,Coverage of essential health services,2015,63,Total,Units,Index,,Free,,Total
+Cook Islands,CK,COK,184,Coverage of essential health services,2017,63,Total,Units,Index,,Free,,Total
+Cook Islands,CK,COK,184,Coverage of essential health services,2019,63,Total,Units,Index,,Free,,Total
+Cook Islands,CK,COK,184,Coverage of essential health services,2021,46,Total,Units,Index,,Free,,Total
+Costa Rica,CR,CRI,188,Coverage of essential health services,2000,66,Total,Units,Index,,Free,,Total
+Costa Rica,CR,CRI,188,Coverage of essential health services,2005,70,Total,Units,Index,,Free,,Total
+Costa Rica,CR,CRI,188,Coverage of essential health services,2010,75,Total,Units,Index,,Free,,Total
+Costa Rica,CR,CRI,188,Coverage of essential health services,2015,77,Total,Units,Index,,Free,,Total
+Costa Rica,CR,CRI,188,Coverage of essential health services,2017,81,Total,Units,Index,,Free,,Total
+Costa Rica,CR,CRI,188,Coverage of essential health services,2019,82,Total,Units,Index,,Free,,Total
+Costa Rica,CR,CRI,188,Coverage of essential health services,2021,81,Total,Units,Index,,Free,,Total
+Croatia,HR,HRV,191,Coverage of essential health services,2000,71,Total,Units,Index,,Free,,Total
+Croatia,HR,HRV,191,Coverage of essential health services,2005,74,Total,Units,Index,,Free,,Total
+Croatia,HR,HRV,191,Coverage of essential health services,2010,77,Total,Units,Index,,Free,,Total
+Croatia,HR,HRV,191,Coverage of essential health services,2015,78,Total,Units,Index,,Free,,Total
+Croatia,HR,HRV,191,Coverage of essential health services,2017,79,Total,Units,Index,,Free,,Total
+Croatia,HR,HRV,191,Coverage of essential health services,2019,80,Total,Units,Index,,Free,,Total
+Croatia,HR,HRV,191,Coverage of essential health services,2021,80,Total,Units,Index,,Free,,Total
+Cuba,CU,CUB,192,Coverage of essential health services,2000,56,Total,Units,Index,,Free,,Total
+Cuba,CU,CUB,192,Coverage of essential health services,2005,71,Total,Units,Index,,Free,,Total
+Cuba,CU,CUB,192,Coverage of essential health services,2010,78,Total,Units,Index,,Free,,Total
+Cuba,CU,CUB,192,Coverage of essential health services,2015,84,Total,Units,Index,,Free,,Total
+Cuba,CU,CUB,192,Coverage of essential health services,2017,84,Total,Units,Index,,Free,,Total
+Cuba,CU,CUB,192,Coverage of essential health services,2019,83,Total,Units,Index,,Free,,Total
+Cuba,CU,CUB,192,Coverage of essential health services,2021,83,Total,Units,Index,,Free,,Total
+Cyprus,CY,CYP,196,Coverage of essential health services,2000,51,Total,Units,Index,,Free,,Total
+Cyprus,CY,CYP,196,Coverage of essential health services,2005,67,Total,Units,Index,,Free,,Total
+Cyprus,CY,CYP,196,Coverage of essential health services,2010,70,Total,Units,Index,,Free,,Total
+Cyprus,CY,CYP,196,Coverage of essential health services,2015,78,Total,Units,Index,,Free,,Total
+Cyprus,CY,CYP,196,Coverage of essential health services,2017,81,Total,Units,Index,,Free,,Total
+Cyprus,CY,CYP,196,Coverage of essential health services,2019,81,Total,Units,Index,,Free,,Total
+Cyprus,CY,CYP,196,Coverage of essential health services,2021,81,Total,Units,Index,,Free,,Total
+Czech Republic,CZ,CZE,203,Coverage of essential health services,2000,77,Total,Units,Index,,Free,,Total
+Czech Republic,CZ,CZE,203,Coverage of essential health services,2005,77,Total,Units,Index,,Free,,Total
+Czech Republic,CZ,CZE,203,Coverage of essential health services,2010,80,Total,Units,Index,,Free,,Total
+Czech Republic,CZ,CZE,203,Coverage of essential health services,2015,82,Total,Units,Index,,Free,,Total
+Czech Republic,CZ,CZE,203,Coverage of essential health services,2017,84,Total,Units,Index,,Free,,Total
+Czech Republic,CZ,CZE,203,Coverage of essential health services,2019,83,Total,Units,Index,,Free,,Total
+Czech Republic,CZ,CZE,203,Coverage of essential health services,2021,84,Total,Units,Index,,Free,,Total
+Côte d'Ivoire,CI,CIV,384,Coverage of essential health services,2000,22,Total,Units,Index,,Free,,Total
+Ivory Coast,CI,CIV,384,Coverage of essential health services,2000,22,Total,Units,Index,,Free,,Total
+Côte d'Ivoire,CI,CIV,384,Coverage of essential health services,2005,25,Total,Units,Index,,Free,,Total
+Ivory Coast,CI,CIV,384,Coverage of essential health services,2005,25,Total,Units,Index,,Free,,Total
+Côte d'Ivoire,CI,CIV,384,Coverage of essential health services,2010,33,Total,Units,Index,,Free,,Total
+Ivory Coast,CI,CIV,384,Coverage of essential health services,2010,33,Total,Units,Index,,Free,,Total
+Côte d'Ivoire,CI,CIV,384,Coverage of essential health services,2015,43,Total,Units,Index,,Free,,Total
+Ivory Coast,CI,CIV,384,Coverage of essential health services,2015,43,Total,Units,Index,,Free,,Total
+Côte d'Ivoire,CI,CIV,384,Coverage of essential health services,2017,44,Total,Units,Index,,Free,,Total
+Ivory Coast,CI,CIV,384,Coverage of essential health services,2017,44,Total,Units,Index,,Free,,Total
+Côte d'Ivoire,CI,CIV,384,Coverage of essential health services,2019,41,Total,Units,Index,,Free,,Total
+Ivory Coast,CI,CIV,384,Coverage of essential health services,2019,41,Total,Units,Index,,Free,,Total
+Côte d'Ivoire,CI,CIV,384,Coverage of essential health services,2021,43,Total,Units,Index,,Free,,Total
+Ivory Coast,CI,CIV,384,Coverage of essential health services,2021,43,Total,Units,Index,,Free,,Total
+"Korea, Democratic People's Republic of",KP,PRK,408,Coverage of essential health services,2000,46,Total,Units,Index,,Free,,Total
+"Korea, Democratic People's Republic of",KP,PRK,408,Coverage of essential health services,2005,49,Total,Units,Index,,Free,,Total
+"Korea, Democratic People's Republic of",KP,PRK,408,Coverage of essential health services,2010,53,Total,Units,Index,,Free,,Total
+"Korea, Democratic People's Republic of",KP,PRK,408,Coverage of essential health services,2015,43,Total,Units,Index,,Free,,Total
+"Korea, Democratic People's Republic of",KP,PRK,408,Coverage of essential health services,2017,73,Total,Units,Index,,Free,,Total
+"Korea, Democratic People's Republic of",KP,PRK,408,Coverage of essential health services,2019,72,Total,Units,Index,,Free,,Total
+"Korea, Democratic People's Republic of",KP,PRK,408,Coverage of essential health services,2021,68,Total,Units,Index,,Free,,Total
+"Congo, the Democratic Republic of the",CD,COD,180,Coverage of essential health services,2000,21,Total,Units,Index,,Free,,Total
+"Congo, the Democratic Republic of the",CD,COD,180,Coverage of essential health services,2005,23,Total,Units,Index,,Free,,Total
+"Congo, the Democratic Republic of the",CD,COD,180,Coverage of essential health services,2010,30,Total,Units,Index,,Free,,Total
+"Congo, the Democratic Republic of the",CD,COD,180,Coverage of essential health services,2015,37,Total,Units,Index,,Free,,Total
+"Congo, the Democratic Republic of the",CD,COD,180,Coverage of essential health services,2017,40,Total,Units,Index,,Free,,Total
+"Congo, the Democratic Republic of the",CD,COD,180,Coverage of essential health services,2019,40,Total,Units,Index,,Free,,Total
+"Congo, the Democratic Republic of the",CD,COD,180,Coverage of essential health services,2021,42,Total,Units,Index,,Free,,Total
+Denmark,DK,DNK,208,Coverage of essential health services,2000,72,Total,Units,Index,,Free,,Total
+Denmark,DK,DNK,208,Coverage of essential health services,2005,74,Total,Units,Index,,Free,,Total
+Denmark,DK,DNK,208,Coverage of essential health services,2010,77,Total,Units,Index,,Free,,Total
+Denmark,DK,DNK,208,Coverage of essential health services,2015,80,Total,Units,Index,,Free,,Total
+Denmark,DK,DNK,208,Coverage of essential health services,2017,81,Total,Units,Index,,Free,,Total
+Denmark,DK,DNK,208,Coverage of essential health services,2019,82,Total,Units,Index,,Free,,Total
+Denmark,DK,DNK,208,Coverage of essential health services,2021,82,Total,Units,Index,,Free,,Total
+Djibouti,DJ,DJI,262,Coverage of essential health services,2000,23,Total,Units,Index,,Free,,Total
+Djibouti,DJ,DJI,262,Coverage of essential health services,2005,28,Total,Units,Index,,Free,,Total
+Djibouti,DJ,DJI,262,Coverage of essential health services,2010,37,Total,Units,Index,,Free,,Total
+Djibouti,DJ,DJI,262,Coverage of essential health services,2015,41,Total,Units,Index,,Free,,Total
+Djibouti,DJ,DJI,262,Coverage of essential health services,2017,45,Total,Units,Index,,Free,,Total
+Djibouti,DJ,DJI,262,Coverage of essential health services,2019,45,Total,Units,Index,,Free,,Total
+Djibouti,DJ,DJI,262,Coverage of essential health services,2021,44,Total,Units,Index,,Free,,Total
+Dominica,DM,DMA,212,Coverage of essential health services,2000,49,Total,Units,Index,,Free,,Total
+Dominica,DM,DMA,212,Coverage of essential health services,2005,60,Total,Units,Index,,Free,,Total
+Dominica,DM,DMA,212,Coverage of essential health services,2010,66,Total,Units,Index,,Free,,Total
+Dominica,DM,DMA,212,Coverage of essential health services,2015,70,Total,Units,Index,,Free,,Total
+Dominica,DM,DMA,212,Coverage of essential health services,2017,70,Total,Units,Index,,Free,,Total
+Dominica,DM,DMA,212,Coverage of essential health services,2019,72,Total,Units,Index,,Free,,Total
+Dominica,DM,DMA,212,Coverage of essential health services,2021,49,Total,Units,Index,,Free,,Total
+Dominican Republic,DO,DOM,214,Coverage of essential health services,2000,51,Total,Units,Index,,Free,,Total
+Dominican Republic,DO,DOM,214,Coverage of essential health services,2005,57,Total,Units,Index,,Free,,Total
+Dominican Republic,DO,DOM,214,Coverage of essential health services,2010,70,Total,Units,Index,,Free,,Total
+Dominican Republic,DO,DOM,214,Coverage of essential health services,2015,75,Total,Units,Index,,Free,,Total
+Dominican Republic,DO,DOM,214,Coverage of essential health services,2017,75,Total,Units,Index,,Free,,Total
+Dominican Republic,DO,DOM,214,Coverage of essential health services,2019,75,Total,Units,Index,,Free,,Total
+Dominican Republic,DO,DOM,214,Coverage of essential health services,2021,77,Total,Units,Index,,Free,,Total
+Ecuador,EC,ECU,218,Coverage of essential health services,2000,51,Total,Units,Index,,Free,,Total
+Ecuador,EC,ECU,218,Coverage of essential health services,2005,58,Total,Units,Index,,Free,,Total
+Ecuador,EC,ECU,218,Coverage of essential health services,2010,68,Total,Units,Index,,Free,,Total
+Ecuador,EC,ECU,218,Coverage of essential health services,2015,77,Total,Units,Index,,Free,,Total
+Ecuador,EC,ECU,218,Coverage of essential health services,2017,78,Total,Units,Index,,Free,,Total
+Ecuador,EC,ECU,218,Coverage of essential health services,2019,79,Total,Units,Index,,Free,,Total
+Ecuador,EC,ECU,218,Coverage of essential health services,2021,77,Total,Units,Index,,Free,,Total
+Egypt,EG,EGY,818,Coverage of essential health services,2000,50,Total,Units,Index,,Free,,Total
+Egypt,EG,EGY,818,Coverage of essential health services,2005,52,Total,Units,Index,,Free,,Total
+Egypt,EG,EGY,818,Coverage of essential health services,2010,62,Total,Units,Index,,Free,,Total
+Egypt,EG,EGY,818,Coverage of essential health services,2015,65,Total,Units,Index,,Free,,Total
+Egypt,EG,EGY,818,Coverage of essential health services,2017,69,Total,Units,Index,,Free,,Total
+Egypt,EG,EGY,818,Coverage of essential health services,2019,70,Total,Units,Index,,Free,,Total
+Egypt,EG,EGY,818,Coverage of essential health services,2021,70,Total,Units,Index,,Free,,Total
+El Salvador,SV,SLV,222,Coverage of essential health services,2000,52,Total,Units,Index,,Free,,Total
+El Salvador,SV,SLV,222,Coverage of essential health services,2005,65,Total,Units,Index,,Free,,Total
+El Salvador,SV,SLV,222,Coverage of essential health services,2010,73,Total,Units,Index,,Free,,Total
+El Salvador,SV,SLV,222,Coverage of essential health services,2015,77,Total,Units,Index,,Free,,Total
+El Salvador,SV,SLV,222,Coverage of essential health services,2017,78,Total,Units,Index,,Free,,Total
+El Salvador,SV,SLV,222,Coverage of essential health services,2019,78,Total,Units,Index,,Free,,Total
+El Salvador,SV,SLV,222,Coverage of essential health services,2021,78,Total,Units,Index,,Free,,Total
+Equatorial Guinea,GQ,GNQ,226,Coverage of essential health services,2000,20,Total,Units,Index,,Free,,Total
+Equatorial Guinea,GQ,GNQ,226,Coverage of essential health services,2005,23,Total,Units,Index,,Free,,Total
+Equatorial Guinea,GQ,GNQ,226,Coverage of essential health services,2010,29,Total,Units,Index,,Free,,Total
+Equatorial Guinea,GQ,GNQ,226,Coverage of essential health services,2015,41,Total,Units,Index,,Free,,Total
+Equatorial Guinea,GQ,GNQ,226,Coverage of essential health services,2017,44,Total,Units,Index,,Free,,Total
+Equatorial Guinea,GQ,GNQ,226,Coverage of essential health services,2019,44,Total,Units,Index,,Free,,Total
+Equatorial Guinea,GQ,GNQ,226,Coverage of essential health services,2021,46,Total,Units,Index,,Free,,Total
+Eritrea,ER,ERI,232,Coverage of essential health services,2000,26,Total,Units,Index,,Free,,Total
+Eritrea,ER,ERI,232,Coverage of essential health services,2005,32,Total,Units,Index,,Free,,Total
+Eritrea,ER,ERI,232,Coverage of essential health services,2010,40,Total,Units,Index,,Free,,Total
+Eritrea,ER,ERI,232,Coverage of essential health services,2015,45,Total,Units,Index,,Free,,Total
+Eritrea,ER,ERI,232,Coverage of essential health services,2017,46,Total,Units,Index,,Free,,Total
+Eritrea,ER,ERI,232,Coverage of essential health services,2019,46,Total,Units,Index,,Free,,Total
+Eritrea,ER,ERI,232,Coverage of essential health services,2021,45,Total,Units,Index,,Free,,Total
+Estonia,EE,EST,233,Coverage of essential health services,2000,60,Total,Units,Index,,Free,,Total
+Estonia,EE,EST,233,Coverage of essential health services,2005,62,Total,Units,Index,,Free,,Total
+Estonia,EE,EST,233,Coverage of essential health services,2010,72,Total,Units,Index,,Free,,Total
+Estonia,EE,EST,233,Coverage of essential health services,2015,77,Total,Units,Index,,Free,,Total
+Estonia,EE,EST,233,Coverage of essential health services,2017,78,Total,Units,Index,,Free,,Total
+Estonia,EE,EST,233,Coverage of essential health services,2019,79,Total,Units,Index,,Free,,Total
+Estonia,EE,EST,233,Coverage of essential health services,2021,79,Total,Units,Index,,Free,,Total
+Swaziland,SZ,SWZ,748,Coverage of essential health services,2000,36,Total,Units,Index,,Free,,Total
+Swaziland,SZ,SWZ,748,Coverage of essential health services,2005,44,Total,Units,Index,,Free,,Total
+Swaziland,SZ,SWZ,748,Coverage of essential health services,2010,51,Total,Units,Index,,Free,,Total
+Swaziland,SZ,SWZ,748,Coverage of essential health services,2015,55,Total,Units,Index,,Free,,Total
+Swaziland,SZ,SWZ,748,Coverage of essential health services,2017,60,Total,Units,Index,,Free,,Total
+Swaziland,SZ,SWZ,748,Coverage of essential health services,2019,58,Total,Units,Index,,Free,,Total
+Swaziland,SZ,SWZ,748,Coverage of essential health services,2021,56,Total,Units,Index,,Free,,Total
+Ethiopia,ET,ETH,231,Coverage of essential health services,2000,13,Total,Units,Index,,Free,,Total
+Ethiopia,ET,ETH,231,Coverage of essential health services,2005,17,Total,Units,Index,,Free,,Total
+Ethiopia,ET,ETH,231,Coverage of essential health services,2010,27,Total,Units,Index,,Free,,Total
+Ethiopia,ET,ETH,231,Coverage of essential health services,2015,34,Total,Units,Index,,Free,,Total
+Ethiopia,ET,ETH,231,Coverage of essential health services,2017,35,Total,Units,Index,,Free,,Total
+Ethiopia,ET,ETH,231,Coverage of essential health services,2019,36,Total,Units,Index,,Free,,Total
+Ethiopia,ET,ETH,231,Coverage of essential health services,2021,35,Total,Units,Index,,Free,,Total
+Fiji,FJ,FJI,242,Coverage of essential health services,2000,42,Total,Units,Index,,Free,,Total
+Fiji,FJ,FJI,242,Coverage of essential health services,2005,50,Total,Units,Index,,Free,,Total
+Fiji,FJ,FJI,242,Coverage of essential health services,2010,52,Total,Units,Index,,Free,,Total
+Fiji,FJ,FJI,242,Coverage of essential health services,2015,60,Total,Units,Index,,Free,,Total
+Fiji,FJ,FJI,242,Coverage of essential health services,2017,59,Total,Units,Index,,Free,,Total
+Fiji,FJ,FJI,242,Coverage of essential health services,2019,59,Total,Units,Index,,Free,,Total
+Fiji,FJ,FJI,242,Coverage of essential health services,2021,58,Total,Units,Index,,Free,,Total
+Finland,FI,FIN,246,Coverage of essential health services,2000,75,Total,Units,Index,,Free,,Total
+Finland,FI,FIN,246,Coverage of essential health services,2005,81,Total,Units,Index,,Free,,Total
+Finland,FI,FIN,246,Coverage of essential health services,2010,84,Total,Units,Index,,Free,,Total
+Finland,FI,FIN,246,Coverage of essential health services,2015,86,Total,Units,Index,,Free,,Total
+Finland,FI,FIN,246,Coverage of essential health services,2017,85,Total,Units,Index,,Free,,Total
+Finland,FI,FIN,246,Coverage of essential health services,2019,85,Total,Units,Index,,Free,,Total
+Finland,FI,FIN,246,Coverage of essential health services,2021,86,Total,Units,Index,,Free,,Total
+France,FR,FRA,250,Coverage of essential health services,2000,79,Total,Units,Index,,Free,,Total
+France,FR,FRA,250,Coverage of essential health services,2005,81,Total,Units,Index,,Free,,Total
+France,FR,FRA,250,Coverage of essential health services,2010,82,Total,Units,Index,,Free,,Total
+France,FR,FRA,250,Coverage of essential health services,2015,84,Total,Units,Index,,Free,,Total
+France,FR,FRA,250,Coverage of essential health services,2017,85,Total,Units,Index,,Free,,Total
+France,FR,FRA,250,Coverage of essential health services,2019,84,Total,Units,Index,,Free,,Total
+France,FR,FRA,250,Coverage of essential health services,2021,85,Total,Units,Index,,Free,,Total
+Gabon,GA,GAB,266,Coverage of essential health services,2000,28,Total,Units,Index,,Free,,Total
+Gabon,GA,GAB,266,Coverage of essential health services,2005,37,Total,Units,Index,,Free,,Total
+Gabon,GA,GAB,266,Coverage of essential health services,2010,45,Total,Units,Index,,Free,,Total
+Gabon,GA,GAB,266,Coverage of essential health services,2015,50,Total,Units,Index,,Free,,Total
+Gabon,GA,GAB,266,Coverage of essential health services,2017,51,Total,Units,Index,,Free,,Total
+Gabon,GA,GAB,266,Coverage of essential health services,2019,49,Total,Units,Index,,Free,,Total
+Gabon,GA,GAB,266,Coverage of essential health services,2021,49,Total,Units,Index,,Free,,Total
+Gambia,GM,GMB,270,Coverage of essential health services,2000,29,Total,Units,Index,,Free,,Total
+Gambia,GM,GMB,270,Coverage of essential health services,2005,36,Total,Units,Index,,Free,,Total
+Gambia,GM,GMB,270,Coverage of essential health services,2010,41,Total,Units,Index,,Free,,Total
+Gambia,GM,GMB,270,Coverage of essential health services,2015,43,Total,Units,Index,,Free,,Total
+Gambia,GM,GMB,270,Coverage of essential health services,2017,44,Total,Units,Index,,Free,,Total
+Gambia,GM,GMB,270,Coverage of essential health services,2019,46,Total,Units,Index,,Free,,Total
+Gambia,GM,GMB,270,Coverage of essential health services,2021,46,Total,Units,Index,,Free,,Total
+Georgia,GE,GEO,268,Coverage of essential health services,2000,47,Total,Units,Index,,Free,,Total
+Georgia,GE,GEO,268,Coverage of essential health services,2005,61,Total,Units,Index,,Free,,Total
+Georgia,GE,GEO,268,Coverage of essential health services,2010,69,Total,Units,Index,,Free,,Total
+Georgia,GE,GEO,268,Coverage of essential health services,2015,71,Total,Units,Index,,Free,,Total
+Georgia,GE,GEO,268,Coverage of essential health services,2017,70,Total,Units,Index,,Free,,Total
+Georgia,GE,GEO,268,Coverage of essential health services,2019,69,Total,Units,Index,,Free,,Total
+Georgia,GE,GEO,268,Coverage of essential health services,2021,68,Total,Units,Index,,Free,,Total
+Germany,DE,DEU,276,Coverage of essential health services,2000,79,Total,Units,Index,,Free,,Total
+Germany,DE,DEU,276,Coverage of essential health services,2005,83,Total,Units,Index,,Free,,Total
+Germany,DE,DEU,276,Coverage of essential health services,2010,85,Total,Units,Index,,Free,,Total
+Germany,DE,DEU,276,Coverage of essential health services,2015,88,Total,Units,Index,,Free,,Total
+Germany,DE,DEU,276,Coverage of essential health services,2017,88,Total,Units,Index,,Free,,Total
+Germany,DE,DEU,276,Coverage of essential health services,2019,88,Total,Units,Index,,Free,,Total
+Germany,DE,DEU,276,Coverage of essential health services,2021,88,Total,Units,Index,,Free,,Total
+Ghana,GH,GHA,288,Coverage of essential health services,2000,24,Total,Units,Index,,Free,,Total
+Ghana,GH,GHA,288,Coverage of essential health services,2005,26,Total,Units,Index,,Free,,Total
+Ghana,GH,GHA,288,Coverage of essential health services,2010,35,Total,Units,Index,,Free,,Total
+Ghana,GH,GHA,288,Coverage of essential health services,2015,44,Total,Units,Index,,Free,,Total
+Ghana,GH,GHA,288,Coverage of essential health services,2017,45,Total,Units,Index,,Free,,Total
+Ghana,GH,GHA,288,Coverage of essential health services,2019,46,Total,Units,Index,,Free,,Total
+Ghana,GH,GHA,288,Coverage of essential health services,2021,48,Total,Units,Index,,Free,,Total
+Greece,GR,GRC,300,Coverage of essential health services,2000,69,Total,Units,Index,,Free,,Total
+Greece,GR,GRC,300,Coverage of essential health services,2005,73,Total,Units,Index,,Free,,Total
+Greece,GR,GRC,300,Coverage of essential health services,2010,75,Total,Units,Index,,Free,,Total
+Greece,GR,GRC,300,Coverage of essential health services,2015,78,Total,Units,Index,,Free,,Total
+Greece,GR,GRC,300,Coverage of essential health services,2017,79,Total,Units,Index,,Free,,Total
+Greece,GR,GRC,300,Coverage of essential health services,2019,79,Total,Units,Index,,Free,,Total
+Greece,GR,GRC,300,Coverage of essential health services,2021,77,Total,Units,Index,,Free,,Total
+Grenada,GD,GRD,308,Coverage of essential health services,2000,50,Total,Units,Index,,Free,,Total
+Grenada,GD,GRD,308,Coverage of essential health services,2005,62,Total,Units,Index,,Free,,Total
+Grenada,GD,GRD,308,Coverage of essential health services,2010,68,Total,Units,Index,,Free,,Total
+Grenada,GD,GRD,308,Coverage of essential health services,2015,71,Total,Units,Index,,Free,,Total
+Grenada,GD,GRD,308,Coverage of essential health services,2017,73,Total,Units,Index,,Free,,Total
+Grenada,GD,GRD,308,Coverage of essential health services,2019,74,Total,Units,Index,,Free,,Total
+Grenada,GD,GRD,308,Coverage of essential health services,2021,70,Total,Units,Index,,Free,,Total
+Guatemala,GT,GTM,320,Coverage of essential health services,2000,40,Total,Units,Index,,Free,,Total
+Guatemala,GT,GTM,320,Coverage of essential health services,2005,50,Total,Units,Index,,Free,,Total
+Guatemala,GT,GTM,320,Coverage of essential health services,2010,58,Total,Units,Index,,Free,,Total
+Guatemala,GT,GTM,320,Coverage of essential health services,2015,60,Total,Units,Index,,Free,,Total
+Guatemala,GT,GTM,320,Coverage of essential health services,2017,58,Total,Units,Index,,Free,,Total
+Guatemala,GT,GTM,320,Coverage of essential health services,2019,61,Total,Units,Index,,Free,,Total
+Guatemala,GT,GTM,320,Coverage of essential health services,2021,59,Total,Units,Index,,Free,,Total
+Guinea,GN,GIN,324,Coverage of essential health services,2000,16,Total,Units,Index,,Free,,Total
+Guinea,GN,GIN,324,Coverage of essential health services,2005,19,Total,Units,Index,,Free,,Total
+Guinea,GN,GIN,324,Coverage of essential health services,2010,26,Total,Units,Index,,Free,,Total
+Guinea,GN,GIN,324,Coverage of essential health services,2015,33,Total,Units,Index,,Free,,Total
+Guinea,GN,GIN,324,Coverage of essential health services,2017,36,Total,Units,Index,,Free,,Total
+Guinea,GN,GIN,324,Coverage of essential health services,2019,39,Total,Units,Index,,Free,,Total
+Guinea,GN,GIN,324,Coverage of essential health services,2021,40,Total,Units,Index,,Free,,Total
+Guinea-Bissau,GW,GNB,624,Coverage of essential health services,2000,19,Total,Units,Index,,Free,,Total
+Guinea-Bissau,GW,GNB,624,Coverage of essential health services,2005,23,Total,Units,Index,,Free,,Total
+Guinea-Bissau,GW,GNB,624,Coverage of essential health services,2010,29,Total,Units,Index,,Free,,Total
+Guinea-Bissau,GW,GNB,624,Coverage of essential health services,2015,37,Total,Units,Index,,Free,,Total
+Guinea-Bissau,GW,GNB,624,Coverage of essential health services,2017,38,Total,Units,Index,,Free,,Total
+Guinea-Bissau,GW,GNB,624,Coverage of essential health services,2019,36,Total,Units,Index,,Free,,Total
+Guinea-Bissau,GW,GNB,624,Coverage of essential health services,2021,37,Total,Units,Index,,Free,,Total
+Guyana,GY,GUY,328,Coverage of essential health services,2000,45,Total,Units,Index,,Free,,Total
+Guyana,GY,GUY,328,Coverage of essential health services,2005,59,Total,Units,Index,,Free,,Total
+Guyana,GY,GUY,328,Coverage of essential health services,2010,65,Total,Units,Index,,Free,,Total
+Guyana,GY,GUY,328,Coverage of essential health services,2015,75,Total,Units,Index,,Free,,Total
+Guyana,GY,GUY,328,Coverage of essential health services,2017,77,Total,Units,Index,,Free,,Total
+Guyana,GY,GUY,328,Coverage of essential health services,2019,77,Total,Units,Index,,Free,,Total
+Guyana,GY,GUY,328,Coverage of essential health services,2021,76,Total,Units,Index,,Free,,Total
+Haiti,HT,HTI,332,Coverage of essential health services,2000,27,Total,Units,Index,,Free,,Total
+Haiti,HT,HTI,332,Coverage of essential health services,2005,33,Total,Units,Index,,Free,,Total
+Haiti,HT,HTI,332,Coverage of essential health services,2010,42,Total,Units,Index,,Free,,Total
+Haiti,HT,HTI,332,Coverage of essential health services,2015,51,Total,Units,Index,,Free,,Total
+Haiti,HT,HTI,332,Coverage of essential health services,2017,53,Total,Units,Index,,Free,,Total
+Haiti,HT,HTI,332,Coverage of essential health services,2019,53,Total,Units,Index,,Free,,Total
+Haiti,HT,HTI,332,Coverage of essential health services,2021,54,Total,Units,Index,,Free,,Total
+Honduras,HN,HND,340,Coverage of essential health services,2000,42,Total,Units,Index,,Free,,Total
+Honduras,HN,HND,340,Coverage of essential health services,2005,52,Total,Units,Index,,Free,,Total
+Honduras,HN,HND,340,Coverage of essential health services,2010,58,Total,Units,Index,,Free,,Total
+Honduras,HN,HND,340,Coverage of essential health services,2015,65,Total,Units,Index,,Free,,Total
+Honduras,HN,HND,340,Coverage of essential health services,2017,65,Total,Units,Index,,Free,,Total
+Honduras,HN,HND,340,Coverage of essential health services,2019,66,Total,Units,Index,,Free,,Total
+Honduras,HN,HND,340,Coverage of essential health services,2021,64,Total,Units,Index,,Free,,Total
+Hungary,HU,HUN,348,Coverage of essential health services,2000,70,Total,Units,Index,,Free,,Total
+Hungary,HU,HUN,348,Coverage of essential health services,2005,72,Total,Units,Index,,Free,,Total
+Hungary,HU,HUN,348,Coverage of essential health services,2010,73,Total,Units,Index,,Free,,Total
+Hungary,HU,HUN,348,Coverage of essential health services,2015,78,Total,Units,Index,,Free,,Total
+Hungary,HU,HUN,348,Coverage of essential health services,2017,79,Total,Units,Index,,Free,,Total
+Hungary,HU,HUN,348,Coverage of essential health services,2019,79,Total,Units,Index,,Free,,Total
+Hungary,HU,HUN,348,Coverage of essential health services,2021,79,Total,Units,Index,,Free,,Total
+Iceland,IS,ISL,352,Coverage of essential health services,2000,78,Total,Units,Index,,Free,,Total
+Iceland,IS,ISL,352,Coverage of essential health services,2005,83,Total,Units,Index,,Free,,Total
+Iceland,IS,ISL,352,Coverage of essential health services,2010,85,Total,Units,Index,,Free,,Total
+Iceland,IS,ISL,352,Coverage of essential health services,2015,87,Total,Units,Index,,Free,,Total
+Iceland,IS,ISL,352,Coverage of essential health services,2017,87,Total,Units,Index,,Free,,Total
+Iceland,IS,ISL,352,Coverage of essential health services,2019,89,Total,Units,Index,,Free,,Total
+Iceland,IS,ISL,352,Coverage of essential health services,2021,89,Total,Units,Index,,Free,,Total
+India,IN,IND,356,Coverage of essential health services,2000,30,Total,Units,Index,,Free,,Total
+India,IN,IND,356,Coverage of essential health services,2005,34,Total,Units,Index,,Free,,Total
+India,IN,IND,356,Coverage of essential health services,2010,49,Total,Units,Index,,Free,,Total
+India,IN,IND,356,Coverage of essential health services,2015,57,Total,Units,Index,,Free,,Total
+India,IN,IND,356,Coverage of essential health services,2017,60,Total,Units,Index,,Free,,Total
+India,IN,IND,356,Coverage of essential health services,2019,64,Total,Units,Index,,Free,,Total
+India,IN,IND,356,Coverage of essential health services,2021,63,Total,Units,Index,,Free,,Total
+Indonesia,ID,IDN,360,Coverage of essential health services,2000,29,Total,Units,Index,,Free,,Total
+Indonesia,ID,IDN,360,Coverage of essential health services,2005,34,Total,Units,Index,,Free,,Total
+Indonesia,ID,IDN,360,Coverage of essential health services,2010,42,Total,Units,Index,,Free,,Total
+Indonesia,ID,IDN,360,Coverage of essential health services,2015,50,Total,Units,Index,,Free,,Total
+Indonesia,ID,IDN,360,Coverage of essential health services,2017,54,Total,Units,Index,,Free,,Total
+Indonesia,ID,IDN,360,Coverage of essential health services,2019,56,Total,Units,Index,,Free,,Total
+Indonesia,ID,IDN,360,Coverage of essential health services,2021,55,Total,Units,Index,,Free,,Total
+"Iran, Islamic Republic of",IR,IRN,364,Coverage of essential health services,2000,50,Total,Units,Index,,Free,,Total
+"Iran, Islamic Republic of",IR,IRN,364,Coverage of essential health services,2005,50,Total,Units,Index,,Free,,Total
+"Iran, Islamic Republic of",IR,IRN,364,Coverage of essential health services,2010,54,Total,Units,Index,,Free,,Total
+"Iran, Islamic Republic of",IR,IRN,364,Coverage of essential health services,2015,68,Total,Units,Index,,Free,,Total
+"Iran, Islamic Republic of",IR,IRN,364,Coverage of essential health services,2017,72,Total,Units,Index,,Free,,Total
+"Iran, Islamic Republic of",IR,IRN,364,Coverage of essential health services,2019,75,Total,Units,Index,,Free,,Total
+"Iran, Islamic Republic of",IR,IRN,364,Coverage of essential health services,2021,74,Total,Units,Index,,Free,,Total
+Iraq,IQ,IRQ,368,Coverage of essential health services,2000,52,Total,Units,Index,,Free,,Total
+Iraq,IQ,IRQ,368,Coverage of essential health services,2005,53,Total,Units,Index,,Free,,Total
+Iraq,IQ,IRQ,368,Coverage of essential health services,2010,53,Total,Units,Index,,Free,,Total
+Iraq,IQ,IRQ,368,Coverage of essential health services,2015,56,Total,Units,Index,,Free,,Total
+Iraq,IQ,IRQ,368,Coverage of essential health services,2017,57,Total,Units,Index,,Free,,Total
+Iraq,IQ,IRQ,368,Coverage of essential health services,2019,58,Total,Units,Index,,Free,,Total
+Iraq,IQ,IRQ,368,Coverage of essential health services,2021,59,Total,Units,Index,,Free,,Total
+Ireland,IE,IRL,372,Coverage of essential health services,2000,72,Total,Units,Index,,Free,,Total
+Ireland,IE,IRL,372,Coverage of essential health services,2005,76,Total,Units,Index,,Free,,Total
+Ireland,IE,IRL,372,Coverage of essential health services,2010,77,Total,Units,Index,,Free,,Total
+Ireland,IE,IRL,372,Coverage of essential health services,2015,82,Total,Units,Index,,Free,,Total
+Ireland,IE,IRL,372,Coverage of essential health services,2017,82,Total,Units,Index,,Free,,Total
+Ireland,IE,IRL,372,Coverage of essential health services,2019,82,Total,Units,Index,,Free,,Total
+Ireland,IE,IRL,372,Coverage of essential health services,2021,83,Total,Units,Index,,Free,,Total
+Israel,IL,ISR,376,Coverage of essential health services,2000,72,Total,Units,Index,,Free,,Total
+Israel,IL,ISR,376,Coverage of essential health services,2005,76,Total,Units,Index,,Free,,Total
+Israel,IL,ISR,376,Coverage of essential health services,2010,79,Total,Units,Index,,Free,,Total
+Israel,IL,ISR,376,Coverage of essential health services,2015,82,Total,Units,Index,,Free,,Total
+Israel,IL,ISR,376,Coverage of essential health services,2017,84,Total,Units,Index,,Free,,Total
+Israel,IL,ISR,376,Coverage of essential health services,2019,85,Total,Units,Index,,Free,,Total
+Israel,IL,ISR,376,Coverage of essential health services,2021,85,Total,Units,Index,,Free,,Total
+Italy,IT,ITA,380,Coverage of essential health services,2000,70,Total,Units,Index,,Free,,Total
+Italy,IT,ITA,380,Coverage of essential health services,2005,76,Total,Units,Index,,Free,,Total
+Italy,IT,ITA,380,Coverage of essential health services,2010,80,Total,Units,Index,,Free,,Total
+Italy,IT,ITA,380,Coverage of essential health services,2015,83,Total,Units,Index,,Free,,Total
+Italy,IT,ITA,380,Coverage of essential health services,2017,84,Total,Units,Index,,Free,,Total
+Italy,IT,ITA,380,Coverage of essential health services,2019,85,Total,Units,Index,,Free,,Total
+Italy,IT,ITA,380,Coverage of essential health services,2021,84,Total,Units,Index,,Free,,Total
+Jamaica,JM,JAM,388,Coverage of essential health services,2000,48,Total,Units,Index,,Free,,Total
+Jamaica,JM,JAM,388,Coverage of essential health services,2005,59,Total,Units,Index,,Free,,Total
+Jamaica,JM,JAM,388,Coverage of essential health services,2010,66,Total,Units,Index,,Free,,Total
+Jamaica,JM,JAM,388,Coverage of essential health services,2015,74,Total,Units,Index,,Free,,Total
+Jamaica,JM,JAM,388,Coverage of essential health services,2017,75,Total,Units,Index,,Free,,Total
+Jamaica,JM,JAM,388,Coverage of essential health services,2019,77,Total,Units,Index,,Free,,Total
+Jamaica,JM,JAM,388,Coverage of essential health services,2021,74,Total,Units,Index,,Free,,Total
+Japan,JP,JPN,392,Coverage of essential health services,2000,70,Total,Units,Index,,Free,,Total
+Japan,JP,JPN,392,Coverage of essential health services,2005,76,Total,Units,Index,,Free,,Total
+Japan,JP,JPN,392,Coverage of essential health services,2010,80,Total,Units,Index,,Free,,Total
+Japan,JP,JPN,392,Coverage of essential health services,2015,83,Total,Units,Index,,Free,,Total
+Japan,JP,JPN,392,Coverage of essential health services,2017,84,Total,Units,Index,,Free,,Total
+Japan,JP,JPN,392,Coverage of essential health services,2019,83,Total,Units,Index,,Free,,Total
+Japan,JP,JPN,392,Coverage of essential health services,2021,83,Total,Units,Index,,Free,,Total
+Jordan,JO,JOR,400,Coverage of essential health services,2000,65,Total,Units,Index,,Free,,Total
+Jordan,JO,JOR,400,Coverage of essential health services,2005,68,Total,Units,Index,,Free,,Total
+Jordan,JO,JOR,400,Coverage of essential health services,2010,72,Total,Units,Index,,Free,,Total
+Jordan,JO,JOR,400,Coverage of essential health services,2015,70,Total,Units,Index,,Free,,Total
+Jordan,JO,JOR,400,Coverage of essential health services,2017,70,Total,Units,Index,,Free,,Total
+Jordan,JO,JOR,400,Coverage of essential health services,2019,67,Total,Units,Index,,Free,,Total
+Jordan,JO,JOR,400,Coverage of essential health services,2021,65,Total,Units,Index,,Free,,Total
+Kazakhstan,KZ,KAZ,398,Coverage of essential health services,2000,56,Total,Units,Index,,Free,,Total
+Kazakhstan,KZ,KAZ,398,Coverage of essential health services,2005,64,Total,Units,Index,,Free,,Total
+Kazakhstan,KZ,KAZ,398,Coverage of essential health services,2010,70,Total,Units,Index,,Free,,Total
+Kazakhstan,KZ,KAZ,398,Coverage of essential health services,2015,77,Total,Units,Index,,Free,,Total
+Kazakhstan,KZ,KAZ,398,Coverage of essential health services,2017,79,Total,Units,Index,,Free,,Total
+Kazakhstan,KZ,KAZ,398,Coverage of essential health services,2019,82,Total,Units,Index,,Free,,Total
+Kazakhstan,KZ,KAZ,398,Coverage of essential health services,2021,80,Total,Units,Index,,Free,,Total
+Kenya,KE,KEN,404,Coverage of essential health services,2000,28,Total,Units,Index,,Free,,Total
+Kenya,KE,KEN,404,Coverage of essential health services,2005,34,Total,Units,Index,,Free,,Total
+Kenya,KE,KEN,404,Coverage of essential health services,2010,44,Total,Units,Index,,Free,,Total
+Kenya,KE,KEN,404,Coverage of essential health services,2015,50,Total,Units,Index,,Free,,Total
+Kenya,KE,KEN,404,Coverage of essential health services,2017,52,Total,Units,Index,,Free,,Total
+Kenya,KE,KEN,404,Coverage of essential health services,2019,51,Total,Units,Index,,Free,,Total
+Kenya,KE,KEN,404,Coverage of essential health services,2021,53,Total,Units,Index,,Free,,Total
+Kiribati,KI,KIR,296,Coverage of essential health services,2000,28,Total,Units,Index,,Free,,Total
+Kiribati,KI,KIR,296,Coverage of essential health services,2005,32,Total,Units,Index,,Free,,Total
+Kiribati,KI,KIR,296,Coverage of essential health services,2010,41,Total,Units,Index,,Free,,Total
+Kiribati,KI,KIR,296,Coverage of essential health services,2015,45,Total,Units,Index,,Free,,Total
+Kiribati,KI,KIR,296,Coverage of essential health services,2017,47,Total,Units,Index,,Free,,Total
+Kiribati,KI,KIR,296,Coverage of essential health services,2019,48,Total,Units,Index,,Free,,Total
+Kiribati,KI,KIR,296,Coverage of essential health services,2021,48,Total,Units,Index,,Free,,Total
+Kuwait,KW,KWT,414,Coverage of essential health services,2000,74,Total,Units,Index,,Free,,Total
+Kuwait,KW,KWT,414,Coverage of essential health services,2005,76,Total,Units,Index,,Free,,Total
+Kuwait,KW,KWT,414,Coverage of essential health services,2010,74,Total,Units,Index,,Free,,Total
+Kuwait,KW,KWT,414,Coverage of essential health services,2015,77,Total,Units,Index,,Free,,Total
+Kuwait,KW,KWT,414,Coverage of essential health services,2017,78,Total,Units,Index,,Free,,Total
+Kuwait,KW,KWT,414,Coverage of essential health services,2019,77,Total,Units,Index,,Free,,Total
+Kuwait,KW,KWT,414,Coverage of essential health services,2021,78,Total,Units,Index,,Free,,Total
+Kyrgyzstan,KG,KGZ,417,Coverage of essential health services,2000,51,Total,Units,Index,,Free,,Total
+Kyrgyzstan,KG,KGZ,417,Coverage of essential health services,2005,55,Total,Units,Index,,Free,,Total
+Kyrgyzstan,KG,KGZ,417,Coverage of essential health services,2010,59,Total,Units,Index,,Free,,Total
+Kyrgyzstan,KG,KGZ,417,Coverage of essential health services,2015,69,Total,Units,Index,,Free,,Total
+Kyrgyzstan,KG,KGZ,417,Coverage of essential health services,2017,71,Total,Units,Index,,Free,,Total
+Kyrgyzstan,KG,KGZ,417,Coverage of essential health services,2019,71,Total,Units,Index,,Free,,Total
+Kyrgyzstan,KG,KGZ,417,Coverage of essential health services,2021,69,Total,Units,Index,,Free,,Total
+Lao People's Democratic Republic,LA,LAO,418,Coverage of essential health services,2000,25,Total,Units,Index,,Free,,Total
+Lao People's Democratic Republic,LA,LAO,418,Coverage of essential health services,2005,33,Total,Units,Index,,Free,,Total
+Lao People's Democratic Republic,LA,LAO,418,Coverage of essential health services,2010,40,Total,Units,Index,,Free,,Total
+Lao People's Democratic Republic,LA,LAO,418,Coverage of essential health services,2015,47,Total,Units,Index,,Free,,Total
+Lao People's Democratic Republic,LA,LAO,418,Coverage of essential health services,2017,51,Total,Units,Index,,Free,,Total
+Lao People's Democratic Republic,LA,LAO,418,Coverage of essential health services,2019,51,Total,Units,Index,,Free,,Total
+Lao People's Democratic Republic,LA,LAO,418,Coverage of essential health services,2021,52,Total,Units,Index,,Free,,Total
+Latvia,LV,LVA,428,Coverage of essential health services,2000,52,Total,Units,Index,,Free,,Total
+Latvia,LV,LVA,428,Coverage of essential health services,2005,58,Total,Units,Index,,Free,,Total
+Latvia,LV,LVA,428,Coverage of essential health services,2010,65,Total,Units,Index,,Free,,Total
+Latvia,LV,LVA,428,Coverage of essential health services,2015,70,Total,Units,Index,,Free,,Total
+Latvia,LV,LVA,428,Coverage of essential health services,2017,75,Total,Units,Index,,Free,,Total
+Latvia,LV,LVA,428,Coverage of essential health services,2019,76,Total,Units,Index,,Free,,Total
+Latvia,LV,LVA,428,Coverage of essential health services,2021,75,Total,Units,Index,,Free,,Total
+Lebanon,LB,LBN,422,Coverage of essential health services,2000,54,Total,Units,Index,,Free,,Total
+Lebanon,LB,LBN,422,Coverage of essential health services,2005,63,Total,Units,Index,,Free,,Total
+Lebanon,LB,LBN,422,Coverage of essential health services,2010,67,Total,Units,Index,,Free,,Total
+Lebanon,LB,LBN,422,Coverage of essential health services,2015,71,Total,Units,Index,,Free,,Total
+Lebanon,LB,LBN,422,Coverage of essential health services,2017,73,Total,Units,Index,,Free,,Total
+Lebanon,LB,LBN,422,Coverage of essential health services,2019,74,Total,Units,Index,,Free,,Total
+Lebanon,LB,LBN,422,Coverage of essential health services,2021,73,Total,Units,Index,,Free,,Total
+Lesotho,LS,LSO,426,Coverage of essential health services,2000,27,Total,Units,Index,,Free,,Total
+Lesotho,LS,LSO,426,Coverage of essential health services,2005,33,Total,Units,Index,,Free,,Total
+Lesotho,LS,LSO,426,Coverage of essential health services,2010,45,Total,Units,Index,,Free,,Total
+Lesotho,LS,LSO,426,Coverage of essential health services,2015,54,Total,Units,Index,,Free,,Total
+Lesotho,LS,LSO,426,Coverage of essential health services,2017,56,Total,Units,Index,,Free,,Total
+Lesotho,LS,LSO,426,Coverage of essential health services,2019,53,Total,Units,Index,,Free,,Total
+Lesotho,LS,LSO,426,Coverage of essential health services,2021,53,Total,Units,Index,,Free,,Total
+Liberia,LR,LBR,430,Coverage of essential health services,2000,20,Total,Units,Index,,Free,,Total
+Liberia,LR,LBR,430,Coverage of essential health services,2005,23,Total,Units,Index,,Free,,Total
+Liberia,LR,LBR,430,Coverage of essential health services,2010,33,Total,Units,Index,,Free,,Total
+Liberia,LR,LBR,430,Coverage of essential health services,2015,37,Total,Units,Index,,Free,,Total
+Liberia,LR,LBR,430,Coverage of essential health services,2017,40,Total,Units,Index,,Free,,Total
+Liberia,LR,LBR,430,Coverage of essential health services,2019,43,Total,Units,Index,,Free,,Total
+Liberia,LR,LBR,430,Coverage of essential health services,2021,45,Total,Units,Index,,Free,,Total
+Libyan Arab Jamahiriya,LY,LBY,434,Coverage of essential health services,2000,55,Total,Units,Index,,Free,,Total
+Libya,LY,LBY,434,Coverage of essential health services,2000,55,Total,Units,Index,,Free,,Total
+Libyan Arab Jamahiriya,LY,LBY,434,Coverage of essential health services,2005,59,Total,Units,Index,,Free,,Total
+Libya,LY,LBY,434,Coverage of essential health services,2005,59,Total,Units,Index,,Free,,Total
+Libyan Arab Jamahiriya,LY,LBY,434,Coverage of essential health services,2010,62,Total,Units,Index,,Free,,Total
+Libya,LY,LBY,434,Coverage of essential health services,2010,62,Total,Units,Index,,Free,,Total
+Libyan Arab Jamahiriya,LY,LBY,434,Coverage of essential health services,2015,61,Total,Units,Index,,Free,,Total
+Libya,LY,LBY,434,Coverage of essential health services,2015,61,Total,Units,Index,,Free,,Total
+Libyan Arab Jamahiriya,LY,LBY,434,Coverage of essential health services,2017,66,Total,Units,Index,,Free,,Total
+Libya,LY,LBY,434,Coverage of essential health services,2017,66,Total,Units,Index,,Free,,Total
+Libyan Arab Jamahiriya,LY,LBY,434,Coverage of essential health services,2019,64,Total,Units,Index,,Free,,Total
+Libya,LY,LBY,434,Coverage of essential health services,2019,64,Total,Units,Index,,Free,,Total
+Libyan Arab Jamahiriya,LY,LBY,434,Coverage of essential health services,2021,62,Total,Units,Index,,Free,,Total
+Libya,LY,LBY,434,Coverage of essential health services,2021,62,Total,Units,Index,,Free,,Total
+Lithuania,LT,LTU,440,Coverage of essential health services,2000,51,Total,Units,Index,,Free,,Total
+Lithuania,LT,LTU,440,Coverage of essential health services,2005,57,Total,Units,Index,,Free,,Total
+Lithuania,LT,LTU,440,Coverage of essential health services,2010,63,Total,Units,Index,,Free,,Total
+Lithuania,LT,LTU,440,Coverage of essential health services,2015,70,Total,Units,Index,,Free,,Total
+Lithuania,LT,LTU,440,Coverage of essential health services,2017,72,Total,Units,Index,,Free,,Total
+Lithuania,LT,LTU,440,Coverage of essential health services,2019,75,Total,Units,Index,,Free,,Total
+Lithuania,LT,LTU,440,Coverage of essential health services,2021,75,Total,Units,Index,,Free,,Total
+Luxembourg,LU,LUX,442,Coverage of essential health services,2000,74,Total,Units,Index,,Free,,Total
+Luxembourg,LU,LUX,442,Coverage of essential health services,2005,75,Total,Units,Index,,Free,,Total
+Luxembourg,LU,LUX,442,Coverage of essential health services,2010,77,Total,Units,Index,,Free,,Total
+Luxembourg,LU,LUX,442,Coverage of essential health services,2015,84,Total,Units,Index,,Free,,Total
+Luxembourg,LU,LUX,442,Coverage of essential health services,2017,85,Total,Units,Index,,Free,,Total
+Luxembourg,LU,LUX,442,Coverage of essential health services,2019,86,Total,Units,Index,,Free,,Total
+Luxembourg,LU,LUX,442,Coverage of essential health services,2021,83,Total,Units,Index,,Free,,Total
+Madagascar,MG,MDG,450,Coverage of essential health services,2000,17,Total,Units,Index,,Free,,Total
+Madagascar,MG,MDG,450,Coverage of essential health services,2005,21,Total,Units,Index,,Free,,Total
+Madagascar,MG,MDG,450,Coverage of essential health services,2010,25,Total,Units,Index,,Free,,Total
+Madagascar,MG,MDG,450,Coverage of essential health services,2015,29,Total,Units,Index,,Free,,Total
+Madagascar,MG,MDG,450,Coverage of essential health services,2017,30,Total,Units,Index,,Free,,Total
+Madagascar,MG,MDG,450,Coverage of essential health services,2019,33,Total,Units,Index,,Free,,Total
+Madagascar,MG,MDG,450,Coverage of essential health services,2021,35,Total,Units,Index,,Free,,Total
+Malawi,MW,MWI,454,Coverage of essential health services,2000,22,Total,Units,Index,,Free,,Total
+Malawi,MW,MWI,454,Coverage of essential health services,2005,28,Total,Units,Index,,Free,,Total
+Malawi,MW,MWI,454,Coverage of essential health services,2010,38,Total,Units,Index,,Free,,Total
+Malawi,MW,MWI,454,Coverage of essential health services,2015,42,Total,Units,Index,,Free,,Total
+Malawi,MW,MWI,454,Coverage of essential health services,2017,48,Total,Units,Index,,Free,,Total
+Malawi,MW,MWI,454,Coverage of essential health services,2019,48,Total,Units,Index,,Free,,Total
+Malawi,MW,MWI,454,Coverage of essential health services,2021,48,Total,Units,Index,,Free,,Total
+Malaysia,MY,MYS,458,Coverage of essential health services,2000,52,Total,Units,Index,,Free,,Total
+Malaysia,MY,MYS,458,Coverage of essential health services,2005,64,Total,Units,Index,,Free,,Total
+Malaysia,MY,MYS,458,Coverage of essential health services,2010,69,Total,Units,Index,,Free,,Total
+Malaysia,MY,MYS,458,Coverage of essential health services,2015,75,Total,Units,Index,,Free,,Total
+Malaysia,MY,MYS,458,Coverage of essential health services,2017,77,Total,Units,Index,,Free,,Total
+Malaysia,MY,MYS,458,Coverage of essential health services,2019,78,Total,Units,Index,,Free,,Total
+Malaysia,MY,MYS,458,Coverage of essential health services,2021,76,Total,Units,Index,,Free,,Total
+Maldives,MV,MDV,462,Coverage of essential health services,2000,41,Total,Units,Index,,Free,,Total
+Maldives,MV,MDV,462,Coverage of essential health services,2005,45,Total,Units,Index,,Free,,Total
+Maldives,MV,MDV,462,Coverage of essential health services,2010,58,Total,Units,Index,,Free,,Total
+Maldives,MV,MDV,462,Coverage of essential health services,2015,64,Total,Units,Index,,Free,,Total
+Maldives,MV,MDV,462,Coverage of essential health services,2017,71,Total,Units,Index,,Free,,Total
+Maldives,MV,MDV,462,Coverage of essential health services,2019,68,Total,Units,Index,,Free,,Total
+Maldives,MV,MDV,462,Coverage of essential health services,2021,61,Total,Units,Index,,Free,,Total
+Mali,ML,MLI,466,Coverage of essential health services,2000,20,Total,Units,Index,,Free,,Total
+Mali,ML,MLI,466,Coverage of essential health services,2005,24,Total,Units,Index,,Free,,Total
+Mali,ML,MLI,466,Coverage of essential health services,2010,35,Total,Units,Index,,Free,,Total
+Mali,ML,MLI,466,Coverage of essential health services,2015,36,Total,Units,Index,,Free,,Total
+Mali,ML,MLI,466,Coverage of essential health services,2017,38,Total,Units,Index,,Free,,Total
+Mali,ML,MLI,466,Coverage of essential health services,2019,40,Total,Units,Index,,Free,,Total
+Mali,ML,MLI,466,Coverage of essential health services,2021,41,Total,Units,Index,,Free,,Total
+Malta,MT,MLT,470,Coverage of essential health services,2000,75,Total,Units,Index,,Free,,Total
+Malta,MT,MLT,470,Coverage of essential health services,2005,77,Total,Units,Index,,Free,,Total
+Malta,MT,MLT,470,Coverage of essential health services,2010,79,Total,Units,Index,,Free,,Total
+Malta,MT,MLT,470,Coverage of essential health services,2015,85,Total,Units,Index,,Free,,Total
+Malta,MT,MLT,470,Coverage of essential health services,2017,85,Total,Units,Index,,Free,,Total
+Malta,MT,MLT,470,Coverage of essential health services,2019,83,Total,Units,Index,,Free,,Total
+Malta,MT,MLT,470,Coverage of essential health services,2021,85,Total,Units,Index,,Free,,Total
+Marshall Islands,MH,MHL,584,Coverage of essential health services,2000,42,Total,Units,Index,,Free,,Total
+Marshall Islands,MH,MHL,584,Coverage of essential health services,2005,46,Total,Units,Index,,Free,,Total
+Marshall Islands,MH,MHL,584,Coverage of essential health services,2010,57,Total,Units,Index,,Free,,Total
+Marshall Islands,MH,MHL,584,Coverage of essential health services,2015,60,Total,Units,Index,,Free,,Total
+Marshall Islands,MH,MHL,584,Coverage of essential health services,2017,61,Total,Units,Index,,Free,,Total
+Marshall Islands,MH,MHL,584,Coverage of essential health services,2019,61,Total,Units,Index,,Free,,Total
+Marshall Islands,MH,MHL,584,Coverage of essential health services,2021,59,Total,Units,Index,,Free,,Total
+Mauritania,MR,MRT,478,Coverage of essential health services,2000,21,Total,Units,Index,,Free,,Total
+Mauritania,MR,MRT,478,Coverage of essential health services,2005,25,Total,Units,Index,,Free,,Total
+Mauritania,MR,MRT,478,Coverage of essential health services,2010,32,Total,Units,Index,,Free,,Total
+Mauritania,MR,MRT,478,Coverage of essential health services,2015,33,Total,Units,Index,,Free,,Total
+Mauritania,MR,MRT,478,Coverage of essential health services,2017,39,Total,Units,Index,,Free,,Total
+Mauritania,MR,MRT,478,Coverage of essential health services,2019,36,Total,Units,Index,,Free,,Total
+Mauritania,MR,MRT,478,Coverage of essential health services,2021,40,Total,Units,Index,,Free,,Total
+Mauritius,MU,MUS,480,Coverage of essential health services,2000,49,Total,Units,Index,,Free,,Total
+Mauritius,MU,MUS,480,Coverage of essential health services,2005,53,Total,Units,Index,,Free,,Total
+Mauritius,MU,MUS,480,Coverage of essential health services,2010,59,Total,Units,Index,,Free,,Total
+Mauritius,MU,MUS,480,Coverage of essential health services,2015,67,Total,Units,Index,,Free,,Total
+Mauritius,MU,MUS,480,Coverage of essential health services,2017,68,Total,Units,Index,,Free,,Total
+Mauritius,MU,MUS,480,Coverage of essential health services,2019,68,Total,Units,Index,,Free,,Total
+Mauritius,MU,MUS,480,Coverage of essential health services,2021,66,Total,Units,Index,,Free,,Total
+Mexico,MX,MEX,484,Coverage of essential health services,2000,56,Total,Units,Index,,Free,,Total
+Mexico,MX,MEX,484,Coverage of essential health services,2005,61,Total,Units,Index,,Free,,Total
+Mexico,MX,MEX,484,Coverage of essential health services,2010,66,Total,Units,Index,,Free,,Total
+Mexico,MX,MEX,484,Coverage of essential health services,2015,74,Total,Units,Index,,Free,,Total
+Mexico,MX,MEX,484,Coverage of essential health services,2017,74,Total,Units,Index,,Free,,Total
+Mexico,MX,MEX,484,Coverage of essential health services,2019,74,Total,Units,Index,,Free,,Total
+Mexico,MX,MEX,484,Coverage of essential health services,2021,75,Total,Units,Index,,Free,,Total
+"Micronesia, Federated States of",FM,FSM,583,Coverage of essential health services,2000,36,Total,Units,Index,,Free,,Total
+"Micronesia, Federated States of",FM,FSM,583,Coverage of essential health services,2005,39,Total,Units,Index,,Free,,Total
+"Micronesia, Federated States of",FM,FSM,583,Coverage of essential health services,2010,47,Total,Units,Index,,Free,,Total
+"Micronesia, Federated States of",FM,FSM,583,Coverage of essential health services,2015,46,Total,Units,Index,,Free,,Total
+"Micronesia, Federated States of",FM,FSM,583,Coverage of essential health services,2017,49,Total,Units,Index,,Free,,Total
+"Micronesia, Federated States of",FM,FSM,583,Coverage of essential health services,2019,46,Total,Units,Index,,Free,,Total
+"Micronesia, Federated States of",FM,FSM,583,Coverage of essential health services,2021,48,Total,Units,Index,,Free,,Total
+Monaco,MC,MCO,492,Coverage of essential health services,2000,73,Total,Units,Index,,Free,,Total
+Monaco,MC,MCO,492,Coverage of essential health services,2005,78,Total,Units,Index,,Free,,Total
+Monaco,MC,MCO,492,Coverage of essential health services,2010,80,Total,Units,Index,,Free,,Total
+Monaco,MC,MCO,492,Coverage of essential health services,2015,84,Total,Units,Index,,Free,,Total
+Monaco,MC,MCO,492,Coverage of essential health services,2017,85,Total,Units,Index,,Free,,Total
+Monaco,MC,MCO,492,Coverage of essential health services,2019,86,Total,Units,Index,,Free,,Total
+Monaco,MC,MCO,492,Coverage of essential health services,2021,86,Total,Units,Index,,Free,,Total
+Mongolia,MN,MNG,496,Coverage of essential health services,2000,46,Total,Units,Index,,Free,,Total
+Mongolia,MN,MNG,496,Coverage of essential health services,2005,49,Total,Units,Index,,Free,,Total
+Mongolia,MN,MNG,496,Coverage of essential health services,2010,59,Total,Units,Index,,Free,,Total
+Mongolia,MN,MNG,496,Coverage of essential health services,2015,66,Total,Units,Index,,Free,,Total
+Mongolia,MN,MNG,496,Coverage of essential health services,2017,67,Total,Units,Index,,Free,,Total
+Mongolia,MN,MNG,496,Coverage of essential health services,2019,67,Total,Units,Index,,Free,,Total
+Mongolia,MN,MNG,496,Coverage of essential health services,2021,65,Total,Units,Index,,Free,,Total
+Montenegro,ME,MNE,499,Coverage of essential health services,2000,60,Total,Units,Index,,Free,,Total
+Montenegro,ME,MNE,499,Coverage of essential health services,2005,64,Total,Units,Index,,Free,,Total
+Montenegro,ME,MNE,499,Coverage of essential health services,2010,67,Total,Units,Index,,Free,,Total
+Montenegro,ME,MNE,499,Coverage of essential health services,2015,69,Total,Units,Index,,Free,,Total
+Montenegro,ME,MNE,499,Coverage of essential health services,2017,71,Total,Units,Index,,Free,,Total
+Montenegro,ME,MNE,499,Coverage of essential health services,2019,72,Total,Units,Index,,Free,,Total
+Montenegro,ME,MNE,499,Coverage of essential health services,2021,72,Total,Units,Index,,Free,,Total
+Morocco,MA,MAR,504,Coverage of essential health services,2000,41,Total,Units,Index,,Free,,Total
+Morocco,MA,MAR,504,Coverage of essential health services,2005,51,Total,Units,Index,,Free,,Total
+Morocco,MA,MAR,504,Coverage of essential health services,2010,58,Total,Units,Index,,Free,,Total
+Morocco,MA,MAR,504,Coverage of essential health services,2015,65,Total,Units,Index,,Free,,Total
+Morocco,MA,MAR,504,Coverage of essential health services,2017,69,Total,Units,Index,,Free,,Total
+Morocco,MA,MAR,504,Coverage of essential health services,2019,68,Total,Units,Index,,Free,,Total
+Morocco,MA,MAR,504,Coverage of essential health services,2021,69,Total,Units,Index,,Free,,Total
+Mozambique,MZ,MOZ,508,Coverage of essential health services,2000,20,Total,Units,Index,,Free,,Total
+Mozambique,MZ,MOZ,508,Coverage of essential health services,2005,23,Total,Units,Index,,Free,,Total
+Mozambique,MZ,MOZ,508,Coverage of essential health services,2010,31,Total,Units,Index,,Free,,Total
+Mozambique,MZ,MOZ,508,Coverage of essential health services,2015,40,Total,Units,Index,,Free,,Total
+Mozambique,MZ,MOZ,508,Coverage of essential health services,2017,43,Total,Units,Index,,Free,,Total
+Mozambique,MZ,MOZ,508,Coverage of essential health services,2019,43,Total,Units,Index,,Free,,Total
+Mozambique,MZ,MOZ,508,Coverage of essential health services,2021,44,Total,Units,Index,,Free,,Total
+Myanmar,MM,MMR,104,Coverage of essential health services,2000,25,Total,Units,Index,,Free,,Total
+Burma,MM,MMR,104,Coverage of essential health services,2000,25,Total,Units,Index,,Free,,Total
+Myanmar,MM,MMR,104,Coverage of essential health services,2005,32,Total,Units,Index,,Free,,Total
+Burma,MM,MMR,104,Coverage of essential health services,2005,32,Total,Units,Index,,Free,,Total
+Myanmar,MM,MMR,104,Coverage of essential health services,2010,45,Total,Units,Index,,Free,,Total
+Burma,MM,MMR,104,Coverage of essential health services,2010,45,Total,Units,Index,,Free,,Total
+Myanmar,MM,MMR,104,Coverage of essential health services,2015,53,Total,Units,Index,,Free,,Total
+Burma,MM,MMR,104,Coverage of essential health services,2015,53,Total,Units,Index,,Free,,Total
+Myanmar,MM,MMR,104,Coverage of essential health services,2017,54,Total,Units,Index,,Free,,Total
+Burma,MM,MMR,104,Coverage of essential health services,2017,54,Total,Units,Index,,Free,,Total
+Myanmar,MM,MMR,104,Coverage of essential health services,2019,60,Total,Units,Index,,Free,,Total
+Burma,MM,MMR,104,Coverage of essential health services,2019,60,Total,Units,Index,,Free,,Total
+Myanmar,MM,MMR,104,Coverage of essential health services,2021,52,Total,Units,Index,,Free,,Total
+Burma,MM,MMR,104,Coverage of essential health services,2021,52,Total,Units,Index,,Free,,Total
+Namibia,,NAM,516,Coverage of essential health services,2000,39,Total,Units,Index,,Free,,Total
+Namibia,,NAM,516,Coverage of essential health services,2005,49,Total,Units,Index,,Free,,Total
+Namibia,,NAM,516,Coverage of essential health services,2010,57,Total,Units,Index,,Free,,Total
+Namibia,,NAM,516,Coverage of essential health services,2015,63,Total,Units,Index,,Free,,Total
+Namibia,,NAM,516,Coverage of essential health services,2017,63,Total,Units,Index,,Free,,Total
+Namibia,,NAM,516,Coverage of essential health services,2019,62,Total,Units,Index,,Free,,Total
+Namibia,,NAM,516,Coverage of essential health services,2021,63,Total,Units,Index,,Free,,Total
+Nauru,NR,NRU,520,Coverage of essential health services,2000,35,Total,Units,Index,,Free,,Total
+Nauru,NR,NRU,520,Coverage of essential health services,2005,40,Total,Units,Index,,Free,,Total
+Nauru,NR,NRU,520,Coverage of essential health services,2010,52,Total,Units,Index,,Free,,Total
+Nauru,NR,NRU,520,Coverage of essential health services,2015,57,Total,Units,Index,,Free,,Total
+Nauru,NR,NRU,520,Coverage of essential health services,2017,59,Total,Units,Index,,Free,,Total
+Nauru,NR,NRU,520,Coverage of essential health services,2019,60,Total,Units,Index,,Free,,Total
+Nauru,NR,NRU,520,Coverage of essential health services,2021,60,Total,Units,Index,,Free,,Total
+Nepal,NP,NPL,524,Coverage of essential health services,2000,20,Total,Units,Index,,Free,,Total
+Nepal,NP,NPL,524,Coverage of essential health services,2005,25,Total,Units,Index,,Free,,Total
+Nepal,NP,NPL,524,Coverage of essential health services,2010,37,Total,Units,Index,,Free,,Total
+Nepal,NP,NPL,524,Coverage of essential health services,2015,47,Total,Units,Index,,Free,,Total
+Nepal,NP,NPL,524,Coverage of essential health services,2017,45,Total,Units,Index,,Free,,Total
+Nepal,NP,NPL,524,Coverage of essential health services,2019,50,Total,Units,Index,,Free,,Total
+Nepal,NP,NPL,524,Coverage of essential health services,2021,54,Total,Units,Index,,Free,,Total
+Netherlands,NL,NLD,528,Coverage of essential health services,2000,75,Total,Units,Index,,Free,,Total
+Netherlands,NL,NLD,528,Coverage of essential health services,2005,78,Total,Units,Index,,Free,,Total
+Netherlands,NL,NLD,528,Coverage of essential health services,2010,80,Total,Units,Index,,Free,,Total
+Netherlands,NL,NLD,528,Coverage of essential health services,2015,84,Total,Units,Index,,Free,,Total
+Netherlands,NL,NLD,528,Coverage of essential health services,2017,85,Total,Units,Index,,Free,,Total
+Netherlands,NL,NLD,528,Coverage of essential health services,2019,85,Total,Units,Index,,Free,,Total
+Netherlands,NL,NLD,528,Coverage of essential health services,2021,85,Total,Units,Index,,Free,,Total
+New Zealand,NZ,NZL,554,Coverage of essential health services,2000,75,Total,Units,Index,,Free,,Total
+New Zealand,NZ,NZL,554,Coverage of essential health services,2005,80,Total,Units,Index,,Free,,Total
+New Zealand,NZ,NZL,554,Coverage of essential health services,2010,82,Total,Units,Index,,Free,,Total
+New Zealand,NZ,NZL,554,Coverage of essential health services,2015,85,Total,Units,Index,,Free,,Total
+New Zealand,NZ,NZL,554,Coverage of essential health services,2017,86,Total,Units,Index,,Free,,Total
+New Zealand,NZ,NZL,554,Coverage of essential health services,2019,85,Total,Units,Index,,Free,,Total
+New Zealand,NZ,NZL,554,Coverage of essential health services,2021,85,Total,Units,Index,,Free,,Total
+Nicaragua,NI,NIC,558,Coverage of essential health services,2000,47,Total,Units,Index,,Free,,Total
+Nicaragua,NI,NIC,558,Coverage of essential health services,2005,53,Total,Units,Index,,Free,,Total
+Nicaragua,NI,NIC,558,Coverage of essential health services,2010,66,Total,Units,Index,,Free,,Total
+Nicaragua,NI,NIC,558,Coverage of essential health services,2015,71,Total,Units,Index,,Free,,Total
+Nicaragua,NI,NIC,558,Coverage of essential health services,2017,73,Total,Units,Index,,Free,,Total
+Nicaragua,NI,NIC,558,Coverage of essential health services,2019,73,Total,Units,Index,,Free,,Total
+Nicaragua,NI,NIC,558,Coverage of essential health services,2021,70,Total,Units,Index,,Free,,Total
+Niger,NE,NER,562,Coverage of essential health services,2000,15,Total,Units,Index,,Free,,Total
+Niger,NE,NER,562,Coverage of essential health services,2005,19,Total,Units,Index,,Free,,Total
+Niger,NE,NER,562,Coverage of essential health services,2010,30,Total,Units,Index,,Free,,Total
+Niger,NE,NER,562,Coverage of essential health services,2015,32,Total,Units,Index,,Free,,Total
+Niger,NE,NER,562,Coverage of essential health services,2017,33,Total,Units,Index,,Free,,Total
+Niger,NE,NER,562,Coverage of essential health services,2019,34,Total,Units,Index,,Free,,Total
+Niger,NE,NER,562,Coverage of essential health services,2021,35,Total,Units,Index,,Free,,Total
+Nigeria,NG,NGA,566,Coverage of essential health services,2000,20,Total,Units,Index,,Free,,Total
+Nigeria,NG,NGA,566,Coverage of essential health services,2005,24,Total,Units,Index,,Free,,Total
+Nigeria,NG,NGA,566,Coverage of essential health services,2010,34,Total,Units,Index,,Free,,Total
+Nigeria,NG,NGA,566,Coverage of essential health services,2015,39,Total,Units,Index,,Free,,Total
+Nigeria,NG,NGA,566,Coverage of essential health services,2017,39,Total,Units,Index,,Free,,Total
+Nigeria,NG,NGA,566,Coverage of essential health services,2019,43,Total,Units,Index,,Free,,Total
+Nigeria,NG,NGA,566,Coverage of essential health services,2021,38,Total,Units,Index,,Free,,Total
+Niue,NU,NIU,570,Coverage of essential health services,2000,42,Total,Units,Index,,Free,,Total
+Niue,NU,NIU,570,Coverage of essential health services,2005,44,Total,Units,Index,,Free,,Total
+Niue,NU,NIU,570,Coverage of essential health services,2010,53,Total,Units,Index,,Free,,Total
+Niue,NU,NIU,570,Coverage of essential health services,2015,59,Total,Units,Index,,Free,,Total
+Niue,NU,NIU,570,Coverage of essential health services,2017,61,Total,Units,Index,,Free,,Total
+Niue,NU,NIU,570,Coverage of essential health services,2019,63,Total,Units,Index,,Free,,Total
+Niue,NU,NIU,570,Coverage of essential health services,2021,44,Total,Units,Index,,Free,,Total
+"Macedonia, the former Yugoslav Republic of",MK,MKD,807,Coverage of essential health services,2000,58,Total,Units,Index,,Free,,Total
+"Macedonia, the former Yugoslav Republic of",MK,MKD,807,Coverage of essential health services,2005,58,Total,Units,Index,,Free,,Total
+"Macedonia, the former Yugoslav Republic of",MK,MKD,807,Coverage of essential health services,2010,64,Total,Units,Index,,Free,,Total
+"Macedonia, the former Yugoslav Republic of",MK,MKD,807,Coverage of essential health services,2015,73,Total,Units,Index,,Free,,Total
+"Macedonia, the former Yugoslav Republic of",MK,MKD,807,Coverage of essential health services,2017,74,Total,Units,Index,,Free,,Total
+"Macedonia, the former Yugoslav Republic of",MK,MKD,807,Coverage of essential health services,2019,74,Total,Units,Index,,Free,,Total
+"Macedonia, the former Yugoslav Republic of",MK,MKD,807,Coverage of essential health services,2021,74,Total,Units,Index,,Free,,Total
+Norway,NO,NOR,578,Coverage of essential health services,2000,72,Total,Units,Index,,Free,,Total
+Norway,NO,NOR,578,Coverage of essential health services,2005,81,Total,Units,Index,,Free,,Total
+Norway,NO,NOR,578,Coverage of essential health services,2010,84,Total,Units,Index,,Free,,Total
+Norway,NO,NOR,578,Coverage of essential health services,2015,86,Total,Units,Index,,Free,,Total
+Norway,NO,NOR,578,Coverage of essential health services,2017,86,Total,Units,Index,,Free,,Total
+Norway,NO,NOR,578,Coverage of essential health services,2019,86,Total,Units,Index,,Free,,Total
+Norway,NO,NOR,578,Coverage of essential health services,2021,87,Total,Units,Index,,Free,,Total
+Oman,OM,OMN,512,Coverage of essential health services,2000,61,Total,Units,Index,,Free,,Total
+Oman,OM,OMN,512,Coverage of essential health services,2005,62,Total,Units,Index,,Free,,Total
+Oman,OM,OMN,512,Coverage of essential health services,2010,67,Total,Units,Index,,Free,,Total
+Oman,OM,OMN,512,Coverage of essential health services,2015,69,Total,Units,Index,,Free,,Total
+Oman,OM,OMN,512,Coverage of essential health services,2017,69,Total,Units,Index,,Free,,Total
+Oman,OM,OMN,512,Coverage of essential health services,2019,70,Total,Units,Index,,Free,,Total
+Oman,OM,OMN,512,Coverage of essential health services,2021,70,Total,Units,Index,,Free,,Total
+Pakistan,PK,PAK,586,Coverage of essential health services,2000,22,Total,Units,Index,,Free,,Total
+Pakistan,PK,PAK,586,Coverage of essential health services,2005,28,Total,Units,Index,,Free,,Total
+Pakistan,PK,PAK,586,Coverage of essential health services,2010,33,Total,Units,Index,,Free,,Total
+Pakistan,PK,PAK,586,Coverage of essential health services,2015,40,Total,Units,Index,,Free,,Total
+Pakistan,PK,PAK,586,Coverage of essential health services,2017,43,Total,Units,Index,,Free,,Total
+Pakistan,PK,PAK,586,Coverage of essential health services,2019,44,Total,Units,Index,,Free,,Total
+Pakistan,PK,PAK,586,Coverage of essential health services,2021,45,Total,Units,Index,,Free,,Total
+Palau,PW,PLW,585,Coverage of essential health services,2000,47,Total,Units,Index,,Free,,Total
+Palau,PW,PLW,585,Coverage of essential health services,2005,49,Total,Units,Index,,Free,,Total
+Palau,PW,PLW,585,Coverage of essential health services,2010,58,Total,Units,Index,,Free,,Total
+Palau,PW,PLW,585,Coverage of essential health services,2015,65,Total,Units,Index,,Free,,Total
+Palau,PW,PLW,585,Coverage of essential health services,2017,67,Total,Units,Index,,Free,,Total
+Palau,PW,PLW,585,Coverage of essential health services,2019,66,Total,Units,Index,,Free,,Total
+Palau,PW,PLW,585,Coverage of essential health services,2021,65,Total,Units,Index,,Free,,Total
+Panama,PA,PAN,591,Coverage of essential health services,2000,62,Total,Units,Index,,Free,,Total
+Panama,PA,PAN,591,Coverage of essential health services,2005,67,Total,Units,Index,,Free,,Total
+Panama,PA,PAN,591,Coverage of essential health services,2010,72,Total,Units,Index,,Free,,Total
+Panama,PA,PAN,591,Coverage of essential health services,2015,75,Total,Units,Index,,Free,,Total
+Panama,PA,PAN,591,Coverage of essential health services,2017,77,Total,Units,Index,,Free,,Total
+Panama,PA,PAN,591,Coverage of essential health services,2019,79,Total,Units,Index,,Free,,Total
+Panama,PA,PAN,591,Coverage of essential health services,2021,78,Total,Units,Index,,Free,,Total
+Papua New Guinea,PG,PNG,598,Coverage of essential health services,2000,25,Total,Units,Index,,Free,,Total
+Papua New Guinea,PG,PNG,598,Coverage of essential health services,2005,26,Total,Units,Index,,Free,,Total
+Papua New Guinea,PG,PNG,598,Coverage of essential health services,2010,33,Total,Units,Index,,Free,,Total
+Papua New Guinea,PG,PNG,598,Coverage of essential health services,2015,36,Total,Units,Index,,Free,,Total
+Papua New Guinea,PG,PNG,598,Coverage of essential health services,2017,33,Total,Units,Index,,Free,,Total
+Papua New Guinea,PG,PNG,598,Coverage of essential health services,2019,30,Total,Units,Index,,Free,,Total
+Papua New Guinea,PG,PNG,598,Coverage of essential health services,2021,30,Total,Units,Index,,Free,,Total
+Paraguay,PY,PRY,600,Coverage of essential health services,2000,48,Total,Units,Index,,Free,,Total
+Paraguay,PY,PRY,600,Coverage of essential health services,2005,59,Total,Units,Index,,Free,,Total
+Paraguay,PY,PRY,600,Coverage of essential health services,2010,68,Total,Units,Index,,Free,,Total
+Paraguay,PY,PRY,600,Coverage of essential health services,2015,72,Total,Units,Index,,Free,,Total
+Paraguay,PY,PRY,600,Coverage of essential health services,2017,73,Total,Units,Index,,Free,,Total
+Paraguay,PY,PRY,600,Coverage of essential health services,2019,74,Total,Units,Index,,Free,,Total
+Paraguay,PY,PRY,600,Coverage of essential health services,2021,72,Total,Units,Index,,Free,,Total
+Peru,PE,PER,604,Coverage of essential health services,2000,48,Total,Units,Index,,Free,,Total
+Peru,PE,PER,604,Coverage of essential health services,2005,59,Total,Units,Index,,Free,,Total
+Peru,PE,PER,604,Coverage of essential health services,2010,70,Total,Units,Index,,Free,,Total
+Peru,PE,PER,604,Coverage of essential health services,2015,76,Total,Units,Index,,Free,,Total
+Peru,PE,PER,604,Coverage of essential health services,2017,75,Total,Units,Index,,Free,,Total
+Peru,PE,PER,604,Coverage of essential health services,2019,75,Total,Units,Index,,Free,,Total
+Peru,PE,PER,604,Coverage of essential health services,2021,71,Total,Units,Index,,Free,,Total
+Philippines,PH,PHL,608,Coverage of essential health services,2000,36,Total,Units,Index,,Free,,Total
+Philippines,PH,PHL,608,Coverage of essential health services,2005,38,Total,Units,Index,,Free,,Total
+Philippines,PH,PHL,608,Coverage of essential health services,2010,48,Total,Units,Index,,Free,,Total
+Philippines,PH,PHL,608,Coverage of essential health services,2015,57,Total,Units,Index,,Free,,Total
+Philippines,PH,PHL,608,Coverage of essential health services,2017,60,Total,Units,Index,,Free,,Total
+Philippines,PH,PHL,608,Coverage of essential health services,2019,60,Total,Units,Index,,Free,,Total
+Philippines,PH,PHL,608,Coverage of essential health services,2021,58,Total,Units,Index,,Free,,Total
+Poland,PL,POL,616,Coverage of essential health services,2000,66,Total,Units,Index,,Free,,Total
+Poland,PL,POL,616,Coverage of essential health services,2005,71,Total,Units,Index,,Free,,Total
+Poland,PL,POL,616,Coverage of essential health services,2010,75,Total,Units,Index,,Free,,Total
+Poland,PL,POL,616,Coverage of essential health services,2015,80,Total,Units,Index,,Free,,Total
+Poland,PL,POL,616,Coverage of essential health services,2017,82,Total,Units,Index,,Free,,Total
+Poland,PL,POL,616,Coverage of essential health services,2019,82,Total,Units,Index,,Free,,Total
+Poland,PL,POL,616,Coverage of essential health services,2021,82,Total,Units,Index,,Free,,Total
+Portugal,PT,PRT,620,Coverage of essential health services,2000,74,Total,Units,Index,,Free,,Total
+Portugal,PT,PRT,620,Coverage of essential health services,2005,80,Total,Units,Index,,Free,,Total
+Portugal,PT,PRT,620,Coverage of essential health services,2010,84,Total,Units,Index,,Free,,Total
+Portugal,PT,PRT,620,Coverage of essential health services,2015,87,Total,Units,Index,,Free,,Total
+Portugal,PT,PRT,620,Coverage of essential health services,2017,88,Total,Units,Index,,Free,,Total
+Portugal,PT,PRT,620,Coverage of essential health services,2019,87,Total,Units,Index,,Free,,Total
+Portugal,PT,PRT,620,Coverage of essential health services,2021,88,Total,Units,Index,,Free,,Total
+Qatar,QA,QAT,634,Coverage of essential health services,2000,52,Total,Units,Index,,Free,,Total
+Qatar,QA,QAT,634,Coverage of essential health services,2005,54,Total,Units,Index,,Free,,Total
+Qatar,QA,QAT,634,Coverage of essential health services,2010,67,Total,Units,Index,,Free,,Total
+Qatar,QA,QAT,634,Coverage of essential health services,2015,73,Total,Units,Index,,Free,,Total
+Qatar,QA,QAT,634,Coverage of essential health services,2017,72,Total,Units,Index,,Free,,Total
+Qatar,QA,QAT,634,Coverage of essential health services,2019,75,Total,Units,Index,,Free,,Total
+Qatar,QA,QAT,634,Coverage of essential health services,2021,76,Total,Units,Index,,Free,,Total
+"Korea, Republic of",KR,KOR,410,Coverage of essential health services,2000,73,Total,Units,Index,,Free,,Total
+South Korea,KR,KOR,410,Coverage of essential health services,2000,73,Total,Units,Index,,Free,,Total
+"Korea, Republic of",KR,KOR,410,Coverage of essential health services,2005,77,Total,Units,Index,,Free,,Total
+South Korea,KR,KOR,410,Coverage of essential health services,2005,77,Total,Units,Index,,Free,,Total
+"Korea, Republic of",KR,KOR,410,Coverage of essential health services,2010,82,Total,Units,Index,,Free,,Total
+South Korea,KR,KOR,410,Coverage of essential health services,2010,82,Total,Units,Index,,Free,,Total
+"Korea, Republic of",KR,KOR,410,Coverage of essential health services,2015,86,Total,Units,Index,,Free,,Total
+South Korea,KR,KOR,410,Coverage of essential health services,2015,86,Total,Units,Index,,Free,,Total
+"Korea, Republic of",KR,KOR,410,Coverage of essential health services,2017,88,Total,Units,Index,,Free,,Total
+South Korea,KR,KOR,410,Coverage of essential health services,2017,88,Total,Units,Index,,Free,,Total
+"Korea, Republic of",KR,KOR,410,Coverage of essential health services,2019,89,Total,Units,Index,,Free,,Total
+South Korea,KR,KOR,410,Coverage of essential health services,2019,89,Total,Units,Index,,Free,,Total
+"Korea, Republic of",KR,KOR,410,Coverage of essential health services,2021,89,Total,Units,Index,,Free,,Total
+South Korea,KR,KOR,410,Coverage of essential health services,2021,89,Total,Units,Index,,Free,,Total
+"Moldova, Republic of",MD,MDA,498,Coverage of essential health services,2000,51,Total,Units,Index,,Free,,Total
+"Moldova, Republic of",MD,MDA,498,Coverage of essential health services,2005,54,Total,Units,Index,,Free,,Total
+"Moldova, Republic of",MD,MDA,498,Coverage of essential health services,2010,63,Total,Units,Index,,Free,,Total
+"Moldova, Republic of",MD,MDA,498,Coverage of essential health services,2015,70,Total,Units,Index,,Free,,Total
+"Moldova, Republic of",MD,MDA,498,Coverage of essential health services,2017,71,Total,Units,Index,,Free,,Total
+"Moldova, Republic of",MD,MDA,498,Coverage of essential health services,2019,72,Total,Units,Index,,Free,,Total
+"Moldova, Republic of",MD,MDA,498,Coverage of essential health services,2021,71,Total,Units,Index,,Free,,Total
+Romania,RO,ROU,642,Coverage of essential health services,2000,69,Total,Units,Index,,Free,,Total
+Romania,RO,ROU,642,Coverage of essential health services,2005,72,Total,Units,Index,,Free,,Total
+Romania,RO,ROU,642,Coverage of essential health services,2010,74,Total,Units,Index,,Free,,Total
+Romania,RO,ROU,642,Coverage of essential health services,2015,78,Total,Units,Index,,Free,,Total
+Romania,RO,ROU,642,Coverage of essential health services,2017,78,Total,Units,Index,,Free,,Total
+Romania,RO,ROU,642,Coverage of essential health services,2019,79,Total,Units,Index,,Free,,Total
+Romania,RO,ROU,642,Coverage of essential health services,2021,78,Total,Units,Index,,Free,,Total
+Russian Federation,RU,RUS,643,Coverage of essential health services,2000,54,Total,Units,Index,,Free,,Total
+Russia,RU,RUS,643,Coverage of essential health services,2000,54,Total,Units,Index,,Free,,Total
+Russian Federation,RU,RUS,643,Coverage of essential health services,2005,50,Total,Units,Index,,Free,,Total
+Russia,RU,RUS,643,Coverage of essential health services,2005,50,Total,Units,Index,,Free,,Total
+Russian Federation,RU,RUS,643,Coverage of essential health services,2010,70,Total,Units,Index,,Free,,Total
+Russia,RU,RUS,643,Coverage of essential health services,2010,70,Total,Units,Index,,Free,,Total
+Russian Federation,RU,RUS,643,Coverage of essential health services,2015,74,Total,Units,Index,,Free,,Total
+Russia,RU,RUS,643,Coverage of essential health services,2015,74,Total,Units,Index,,Free,,Total
+Russian Federation,RU,RUS,643,Coverage of essential health services,2017,77,Total,Units,Index,,Free,,Total
+Russia,RU,RUS,643,Coverage of essential health services,2017,77,Total,Units,Index,,Free,,Total
+Russian Federation,RU,RUS,643,Coverage of essential health services,2019,79,Total,Units,Index,,Free,,Total
+Russia,RU,RUS,643,Coverage of essential health services,2019,79,Total,Units,Index,,Free,,Total
+Russian Federation,RU,RUS,643,Coverage of essential health services,2021,79,Total,Units,Index,,Free,,Total
+Russia,RU,RUS,643,Coverage of essential health services,2021,79,Total,Units,Index,,Free,,Total
+Rwanda,RW,RWA,646,Coverage of essential health services,2000,19,Total,Units,Index,,Free,,Total
+Rwanda,RW,RWA,646,Coverage of essential health services,2005,26,Total,Units,Index,,Free,,Total
+Rwanda,RW,RWA,646,Coverage of essential health services,2010,39,Total,Units,Index,,Free,,Total
+Rwanda,RW,RWA,646,Coverage of essential health services,2015,44,Total,Units,Index,,Free,,Total
+Rwanda,RW,RWA,646,Coverage of essential health services,2017,48,Total,Units,Index,,Free,,Total
+Rwanda,RW,RWA,646,Coverage of essential health services,2019,47,Total,Units,Index,,Free,,Total
+Rwanda,RW,RWA,646,Coverage of essential health services,2021,49,Total,Units,Index,,Free,,Total
+Saint Kitts and Nevis,KN,KNA,659,Coverage of essential health services,2000,53,Total,Units,Index,,Free,,Total
+Saint Kitts and Nevis,KN,KNA,659,Coverage of essential health services,2005,66,Total,Units,Index,,Free,,Total
+Saint Kitts and Nevis,KN,KNA,659,Coverage of essential health services,2010,72,Total,Units,Index,,Free,,Total
+Saint Kitts and Nevis,KN,KNA,659,Coverage of essential health services,2015,76,Total,Units,Index,,Free,,Total
+Saint Kitts and Nevis,KN,KNA,659,Coverage of essential health services,2017,76,Total,Units,Index,,Free,,Total
+Saint Kitts and Nevis,KN,KNA,659,Coverage of essential health services,2019,77,Total,Units,Index,,Free,,Total
+Saint Kitts and Nevis,KN,KNA,659,Coverage of essential health services,2021,79,Total,Units,Index,,Free,,Total
+Saint Lucia,LC,LCA,662,Coverage of essential health services,2000,49,Total,Units,Index,,Free,,Total
+Saint Lucia,LC,LCA,662,Coverage of essential health services,2005,62,Total,Units,Index,,Free,,Total
+Saint Lucia,LC,LCA,662,Coverage of essential health services,2010,68,Total,Units,Index,,Free,,Total
+Saint Lucia,LC,LCA,662,Coverage of essential health services,2015,74,Total,Units,Index,,Free,,Total
+Saint Lucia,LC,LCA,662,Coverage of essential health services,2017,74,Total,Units,Index,,Free,,Total
+Saint Lucia,LC,LCA,662,Coverage of essential health services,2019,77,Total,Units,Index,,Free,,Total
+Saint Lucia,LC,LCA,662,Coverage of essential health services,2021,77,Total,Units,Index,,Free,,Total
+Saint Vincent and the Grenadines,VC,VCT,670,Coverage of essential health services,2000,49,Total,Units,Index,,Free,,Total
+Saint Vincent & the Grenadines,VC,VCT,670,Coverage of essential health services,2000,49,Total,Units,Index,,Free,,Total
+St. Vincent and the Grenadines,VC,VCT,670,Coverage of essential health services,2000,49,Total,Units,Index,,Free,,Total
+Saint Vincent and the Grenadines,VC,VCT,670,Coverage of essential health services,2005,61,Total,Units,Index,,Free,,Total
+Saint Vincent & the Grenadines,VC,VCT,670,Coverage of essential health services,2005,61,Total,Units,Index,,Free,,Total
+St. Vincent and the Grenadines,VC,VCT,670,Coverage of essential health services,2005,61,Total,Units,Index,,Free,,Total
+Saint Vincent and the Grenadines,VC,VCT,670,Coverage of essential health services,2010,68,Total,Units,Index,,Free,,Total
+Saint Vincent & the Grenadines,VC,VCT,670,Coverage of essential health services,2010,68,Total,Units,Index,,Free,,Total
+St. Vincent and the Grenadines,VC,VCT,670,Coverage of essential health services,2010,68,Total,Units,Index,,Free,,Total
+Saint Vincent and the Grenadines,VC,VCT,670,Coverage of essential health services,2015,72,Total,Units,Index,,Free,,Total
+Saint Vincent & the Grenadines,VC,VCT,670,Coverage of essential health services,2015,72,Total,Units,Index,,Free,,Total
+St. Vincent and the Grenadines,VC,VCT,670,Coverage of essential health services,2015,72,Total,Units,Index,,Free,,Total
+Saint Vincent and the Grenadines,VC,VCT,670,Coverage of essential health services,2017,76,Total,Units,Index,,Free,,Total
+Saint Vincent & the Grenadines,VC,VCT,670,Coverage of essential health services,2017,76,Total,Units,Index,,Free,,Total
+St. Vincent and the Grenadines,VC,VCT,670,Coverage of essential health services,2017,76,Total,Units,Index,,Free,,Total
+Saint Vincent and the Grenadines,VC,VCT,670,Coverage of essential health services,2019,76,Total,Units,Index,,Free,,Total
+Saint Vincent & the Grenadines,VC,VCT,670,Coverage of essential health services,2019,76,Total,Units,Index,,Free,,Total
+St. Vincent and the Grenadines,VC,VCT,670,Coverage of essential health services,2019,76,Total,Units,Index,,Free,,Total
+Saint Vincent and the Grenadines,VC,VCT,670,Coverage of essential health services,2021,69,Total,Units,Index,,Free,,Total
+Saint Vincent & the Grenadines,VC,VCT,670,Coverage of essential health services,2021,69,Total,Units,Index,,Free,,Total
+St. Vincent and the Grenadines,VC,VCT,670,Coverage of essential health services,2021,69,Total,Units,Index,,Free,,Total
+Samoa,WS,WSM,882,Coverage of essential health services,2000,41,Total,Units,Index,,Free,,Total
+Samoa,WS,WSM,882,Coverage of essential health services,2005,39,Total,Units,Index,,Free,,Total
+Samoa,WS,WSM,882,Coverage of essential health services,2010,48,Total,Units,Index,,Free,,Total
+Samoa,WS,WSM,882,Coverage of essential health services,2015,53,Total,Units,Index,,Free,,Total
+Samoa,WS,WSM,882,Coverage of essential health services,2017,54,Total,Units,Index,,Free,,Total
+Samoa,WS,WSM,882,Coverage of essential health services,2019,55,Total,Units,Index,,Free,,Total
+Samoa,WS,WSM,882,Coverage of essential health services,2021,55,Total,Units,Index,,Free,,Total
+San Marino,SM,SMR,674,Coverage of essential health services,2000,69,Total,Units,Index,,Free,,Total
+San Marino,SM,SMR,674,Coverage of essential health services,2005,73,Total,Units,Index,,Free,,Total
+San Marino,SM,SMR,674,Coverage of essential health services,2010,75,Total,Units,Index,,Free,,Total
+San Marino,SM,SMR,674,Coverage of essential health services,2015,79,Total,Units,Index,,Free,,Total
+San Marino,SM,SMR,674,Coverage of essential health services,2017,81,Total,Units,Index,,Free,,Total
+San Marino,SM,SMR,674,Coverage of essential health services,2019,77,Total,Units,Index,,Free,,Total
+San Marino,SM,SMR,674,Coverage of essential health services,2021,77,Total,Units,Index,,Free,,Total
+Sao Tome and Principe,ST,STP,678,Coverage of essential health services,2000,33,Total,Units,Index,,Free,,Total
+Sao Tome and Principe,ST,STP,678,Coverage of essential health services,2005,37,Total,Units,Index,,Free,,Total
+Sao Tome and Principe,ST,STP,678,Coverage of essential health services,2010,47,Total,Units,Index,,Free,,Total
+Sao Tome and Principe,ST,STP,678,Coverage of essential health services,2015,52,Total,Units,Index,,Free,,Total
+Sao Tome and Principe,ST,STP,678,Coverage of essential health services,2017,55,Total,Units,Index,,Free,,Total
+Sao Tome and Principe,ST,STP,678,Coverage of essential health services,2019,60,Total,Units,Index,,Free,,Total
+Sao Tome and Principe,ST,STP,678,Coverage of essential health services,2021,59,Total,Units,Index,,Free,,Total
+Saudi Arabia,SA,SAU,682,Coverage of essential health services,2000,65,Total,Units,Index,,Free,,Total
+Saudi Arabia,SA,SAU,682,Coverage of essential health services,2005,67,Total,Units,Index,,Free,,Total
+Saudi Arabia,SA,SAU,682,Coverage of essential health services,2010,69,Total,Units,Index,,Free,,Total
+Saudi Arabia,SA,SAU,682,Coverage of essential health services,2015,71,Total,Units,Index,,Free,,Total
+Saudi Arabia,SA,SAU,682,Coverage of essential health services,2017,73,Total,Units,Index,,Free,,Total
+Saudi Arabia,SA,SAU,682,Coverage of essential health services,2019,72,Total,Units,Index,,Free,,Total
+Saudi Arabia,SA,SAU,682,Coverage of essential health services,2021,74,Total,Units,Index,,Free,,Total
+Senegal,SN,SEN,686,Coverage of essential health services,2000,21,Total,Units,Index,,Free,,Total
+Senegal,SN,SEN,686,Coverage of essential health services,2005,25,Total,Units,Index,,Free,,Total
+Senegal,SN,SEN,686,Coverage of essential health services,2010,37,Total,Units,Index,,Free,,Total
+Senegal,SN,SEN,686,Coverage of essential health services,2015,45,Total,Units,Index,,Free,,Total
+Senegal,SN,SEN,686,Coverage of essential health services,2017,49,Total,Units,Index,,Free,,Total
+Senegal,SN,SEN,686,Coverage of essential health services,2019,51,Total,Units,Index,,Free,,Total
+Senegal,SN,SEN,686,Coverage of essential health services,2021,50,Total,Units,Index,,Free,,Total
+Serbia,RS,SRB,688,Coverage of essential health services,2000,44,Total,Units,Index,,Free,,Total
+Serbia,RS,SRB,688,Coverage of essential health services,2005,63,Total,Units,Index,,Free,,Total
+Serbia,RS,SRB,688,Coverage of essential health services,2010,63,Total,Units,Index,,Free,,Total
+Serbia,RS,SRB,688,Coverage of essential health services,2015,72,Total,Units,Index,,Free,,Total
+Serbia,RS,SRB,688,Coverage of essential health services,2017,73,Total,Units,Index,,Free,,Total
+Serbia,RS,SRB,688,Coverage of essential health services,2019,77,Total,Units,Index,,Free,,Total
+Serbia,RS,SRB,688,Coverage of essential health services,2021,72,Total,Units,Index,,Free,,Total
+Seychelles,SC,SYC,690,Coverage of essential health services,2000,44,Total,Units,Index,,Free,,Total
+Seychelles,SC,SYC,690,Coverage of essential health services,2005,48,Total,Units,Index,,Free,,Total
+Seychelles,SC,SYC,690,Coverage of essential health services,2010,59,Total,Units,Index,,Free,,Total
+Seychelles,SC,SYC,690,Coverage of essential health services,2015,73,Total,Units,Index,,Free,,Total
+Seychelles,SC,SYC,690,Coverage of essential health services,2017,75,Total,Units,Index,,Free,,Total
+Seychelles,SC,SYC,690,Coverage of essential health services,2019,74,Total,Units,Index,,Free,,Total
+Seychelles,SC,SYC,690,Coverage of essential health services,2021,75,Total,Units,Index,,Free,,Total
+Sierra Leone,SL,SLE,694,Coverage of essential health services,2000,14,Total,Units,Index,,Free,,Total
+Sierra Leone,SL,SLE,694,Coverage of essential health services,2005,16,Total,Units,Index,,Free,,Total
+Sierra Leone,SL,SLE,694,Coverage of essential health services,2010,27,Total,Units,Index,,Free,,Total
+Sierra Leone,SL,SLE,694,Coverage of essential health services,2015,35,Total,Units,Index,,Free,,Total
+Sierra Leone,SL,SLE,694,Coverage of essential health services,2017,39,Total,Units,Index,,Free,,Total
+Sierra Leone,SL,SLE,694,Coverage of essential health services,2019,38,Total,Units,Index,,Free,,Total
+Sierra Leone,SL,SLE,694,Coverage of essential health services,2021,41,Total,Units,Index,,Free,,Total
+Singapore,SG,SGP,702,Coverage of essential health services,2000,64,Total,Units,Index,,Free,,Total
+Singapore,SG,SGP,702,Coverage of essential health services,2005,70,Total,Units,Index,,Free,,Total
+Singapore,SG,SGP,702,Coverage of essential health services,2010,82,Total,Units,Index,,Free,,Total
+Singapore,SG,SGP,702,Coverage of essential health services,2015,87,Total,Units,Index,,Free,,Total
+Singapore,SG,SGP,702,Coverage of essential health services,2017,88,Total,Units,Index,,Free,,Total
+Singapore,SG,SGP,702,Coverage of essential health services,2019,88,Total,Units,Index,,Free,,Total
+Singapore,SG,SGP,702,Coverage of essential health services,2021,89,Total,Units,Index,,Free,,Total
+Slovakia,SK,SVK,703,Coverage of essential health services,2000,65,Total,Units,Index,,Free,,Total
+Slovakia,SK,SVK,703,Coverage of essential health services,2005,73,Total,Units,Index,,Free,,Total
+Slovakia,SK,SVK,703,Coverage of essential health services,2010,76,Total,Units,Index,,Free,,Total
+Slovakia,SK,SVK,703,Coverage of essential health services,2015,82,Total,Units,Index,,Free,,Total
+Slovakia,SK,SVK,703,Coverage of essential health services,2017,84,Total,Units,Index,,Free,,Total
+Slovakia,SK,SVK,703,Coverage of essential health services,2019,82,Total,Units,Index,,Free,,Total
+Slovakia,SK,SVK,703,Coverage of essential health services,2021,82,Total,Units,Index,,Free,,Total
+Slovenia,SI,SVN,705,Coverage of essential health services,2000,73,Total,Units,Index,,Free,,Total
+Slovenia,SI,SVN,705,Coverage of essential health services,2005,74,Total,Units,Index,,Free,,Total
+Slovenia,SI,SVN,705,Coverage of essential health services,2010,77,Total,Units,Index,,Free,,Total
+Slovenia,SI,SVN,705,Coverage of essential health services,2015,81,Total,Units,Index,,Free,,Total
+Slovenia,SI,SVN,705,Coverage of essential health services,2017,83,Total,Units,Index,,Free,,Total
+Slovenia,SI,SVN,705,Coverage of essential health services,2019,85,Total,Units,Index,,Free,,Total
+Slovenia,SI,SVN,705,Coverage of essential health services,2021,84,Total,Units,Index,,Free,,Total
+Solomon Islands,SB,SLB,90,Coverage of essential health services,2000,31,Total,Units,Index,,Free,,Total
+Solomon Islands,SB,SLB,90,Coverage of essential health services,2005,32,Total,Units,Index,,Free,,Total
+Solomon Islands,SB,SLB,90,Coverage of essential health services,2010,40,Total,Units,Index,,Free,,Total
+Solomon Islands,SB,SLB,90,Coverage of essential health services,2015,45,Total,Units,Index,,Free,,Total
+Solomon Islands,SB,SLB,90,Coverage of essential health services,2017,47,Total,Units,Index,,Free,,Total
+Solomon Islands,SB,SLB,90,Coverage of essential health services,2019,46,Total,Units,Index,,Free,,Total
+Solomon Islands,SB,SLB,90,Coverage of essential health services,2021,47,Total,Units,Index,,Free,,Total
+Somalia,SO,SOM,706,Coverage of essential health services,2000,11,Total,Units,Index,,Free,,Total
+Somalia,SO,SOM,706,Coverage of essential health services,2005,12,Total,Units,Index,,Free,,Total
+Somalia,SO,SOM,706,Coverage of essential health services,2010,17,Total,Units,Index,,Free,,Total
+Somalia,SO,SOM,706,Coverage of essential health services,2015,21,Total,Units,Index,,Free,,Total
+Somalia,SO,SOM,706,Coverage of essential health services,2017,25,Total,Units,Index,,Free,,Total
+Somalia,SO,SOM,706,Coverage of essential health services,2019,26,Total,Units,Index,,Free,,Total
+Somalia,SO,SOM,706,Coverage of essential health services,2021,27,Total,Units,Index,,Free,,Total
+South Africa,ZA,ZAF,710,Coverage of essential health services,2000,43,Total,Units,Index,,Free,,Total
+South Africa,ZA,ZAF,710,Coverage of essential health services,2005,51,Total,Units,Index,,Free,,Total
+South Africa,ZA,ZAF,710,Coverage of essential health services,2010,63,Total,Units,Index,,Free,,Total
+South Africa,ZA,ZAF,710,Coverage of essential health services,2015,70,Total,Units,Index,,Free,,Total
+South Africa,ZA,ZAF,710,Coverage of essential health services,2017,71,Total,Units,Index,,Free,,Total
+South Africa,ZA,ZAF,710,Coverage of essential health services,2019,71,Total,Units,Index,,Free,,Total
+South Africa,ZA,ZAF,710,Coverage of essential health services,2021,71,Total,Units,Index,,Free,,Total
+South Sudan,SS,SSD,728,Coverage of essential health services,2000,18,Total,Units,Index,,Free,,Total
+South Sudan,SS,SSD,728,Coverage of essential health services,2005,19,Total,Units,Index,,Free,,Total
+South Sudan,SS,SSD,728,Coverage of essential health services,2010,23,Total,Units,Index,,Free,,Total
+South Sudan,SS,SSD,728,Coverage of essential health services,2015,27,Total,Units,Index,,Free,,Total
+South Sudan,SS,SSD,728,Coverage of essential health services,2017,30,Total,Units,Index,,Free,,Total
+South Sudan,SS,SSD,728,Coverage of essential health services,2019,31,Total,Units,Index,,Free,,Total
+South Sudan,SS,SSD,728,Coverage of essential health services,2021,34,Total,Units,Index,,Free,,Total
+Spain,ES,ESP,724,Coverage of essential health services,2000,69,Total,Units,Index,,Free,,Total
+Spain,ES,ESP,724,Coverage of essential health services,2005,74,Total,Units,Index,,Free,,Total
+Spain,ES,ESP,724,Coverage of essential health services,2010,78,Total,Units,Index,,Free,,Total
+Spain,ES,ESP,724,Coverage of essential health services,2015,85,Total,Units,Index,,Free,,Total
+Spain,ES,ESP,724,Coverage of essential health services,2017,86,Total,Units,Index,,Free,,Total
+Spain,ES,ESP,724,Coverage of essential health services,2019,85,Total,Units,Index,,Free,,Total
+Spain,ES,ESP,724,Coverage of essential health services,2021,85,Total,Units,Index,,Free,,Total
+Sri Lanka,LK,LKA,144,Coverage of essential health services,2000,44,Total,Units,Index,,Free,,Total
+Sri Lanka,LK,LKA,144,Coverage of essential health services,2005,48,Total,Units,Index,,Free,,Total
+Sri Lanka,LK,LKA,144,Coverage of essential health services,2010,55,Total,Units,Index,,Free,,Total
+Sri Lanka,LK,LKA,144,Coverage of essential health services,2015,61,Total,Units,Index,,Free,,Total
+Sri Lanka,LK,LKA,144,Coverage of essential health services,2017,65,Total,Units,Index,,Free,,Total
+Sri Lanka,LK,LKA,144,Coverage of essential health services,2019,66,Total,Units,Index,,Free,,Total
+Sri Lanka,LK,LKA,144,Coverage of essential health services,2021,67,Total,Units,Index,,Free,,Total
+Sudan,SD,SDN,736,Coverage of essential health services,2000,25,Total,Units,Index,,Free,,Total
+Sudan,SD,SDN,736,Coverage of essential health services,2005,27,Total,Units,Index,,Free,,Total
+Sudan,SD,SDN,736,Coverage of essential health services,2010,36,Total,Units,Index,,Free,,Total
+Sudan,SD,SDN,736,Coverage of essential health services,2015,43,Total,Units,Index,,Free,,Total
+Sudan,SD,SDN,736,Coverage of essential health services,2017,45,Total,Units,Index,,Free,,Total
+Sudan,SD,SDN,736,Coverage of essential health services,2019,45,Total,Units,Index,,Free,,Total
+Sudan,SD,SDN,736,Coverage of essential health services,2021,44,Total,Units,Index,,Free,,Total
+Suriname,SR,SUR,740,Coverage of essential health services,2000,45,Total,Units,Index,,Free,,Total
+Suriname,SR,SUR,740,Coverage of essential health services,2005,58,Total,Units,Index,,Free,,Total
+Suriname,SR,SUR,740,Coverage of essential health services,2010,65,Total,Units,Index,,Free,,Total
+Suriname,SR,SUR,740,Coverage of essential health services,2015,71,Total,Units,Index,,Free,,Total
+Suriname,SR,SUR,740,Coverage of essential health services,2017,72,Total,Units,Index,,Free,,Total
+Suriname,SR,SUR,740,Coverage of essential health services,2019,72,Total,Units,Index,,Free,,Total
+Suriname,SR,SUR,740,Coverage of essential health services,2021,63,Total,Units,Index,,Free,,Total
+Sweden,SE,SWE,752,Coverage of essential health services,2000,72,Total,Units,Index,,Free,,Total
+Sweden,SE,SWE,752,Coverage of essential health services,2005,76,Total,Units,Index,,Free,,Total
+Sweden,SE,SWE,752,Coverage of essential health services,2010,81,Total,Units,Index,,Free,,Total
+Sweden,SE,SWE,752,Coverage of essential health services,2015,84,Total,Units,Index,,Free,,Total
+Sweden,SE,SWE,752,Coverage of essential health services,2017,85,Total,Units,Index,,Free,,Total
+Sweden,SE,SWE,752,Coverage of essential health services,2019,85,Total,Units,Index,,Free,,Total
+Sweden,SE,SWE,752,Coverage of essential health services,2021,85,Total,Units,Index,,Free,,Total
+Switzerland,CH,CHE,756,Coverage of essential health services,2000,75,Total,Units,Index,,Free,,Total
+Switzerland,CH,CHE,756,Coverage of essential health services,2005,79,Total,Units,Index,,Free,,Total
+Switzerland,CH,CHE,756,Coverage of essential health services,2010,82,Total,Units,Index,,Free,,Total
+Switzerland,CH,CHE,756,Coverage of essential health services,2015,84,Total,Units,Index,,Free,,Total
+Switzerland,CH,CHE,756,Coverage of essential health services,2017,86,Total,Units,Index,,Free,,Total
+Switzerland,CH,CHE,756,Coverage of essential health services,2019,86,Total,Units,Index,,Free,,Total
+Switzerland,CH,CHE,756,Coverage of essential health services,2021,86,Total,Units,Index,,Free,,Total
+Syrian Arab Republic,SY,SYR,760,Coverage of essential health services,2000,46,Total,Units,Index,,Free,,Total
+Syrian Arab Republic,SY,SYR,760,Coverage of essential health services,2005,52,Total,Units,Index,,Free,,Total
+Syrian Arab Republic,SY,SYR,760,Coverage of essential health services,2010,58,Total,Units,Index,,Free,,Total
+Syrian Arab Republic,SY,SYR,760,Coverage of essential health services,2015,60,Total,Units,Index,,Free,,Total
+Syrian Arab Republic,SY,SYR,760,Coverage of essential health services,2017,62,Total,Units,Index,,Free,,Total
+Syrian Arab Republic,SY,SYR,760,Coverage of essential health services,2019,62,Total,Units,Index,,Free,,Total
+Syrian Arab Republic,SY,SYR,760,Coverage of essential health services,2021,64,Total,Units,Index,,Free,,Total
+Tajikistan,TJ,TJK,762,Coverage of essential health services,2000,42,Total,Units,Index,,Free,,Total
+Tajikistan,TJ,TJK,762,Coverage of essential health services,2005,46,Total,Units,Index,,Free,,Total
+Tajikistan,TJ,TJK,762,Coverage of essential health services,2010,58,Total,Units,Index,,Free,,Total
+Tajikistan,TJ,TJK,762,Coverage of essential health services,2015,68,Total,Units,Index,,Free,,Total
+Tajikistan,TJ,TJK,762,Coverage of essential health services,2017,69,Total,Units,Index,,Free,,Total
+Tajikistan,TJ,TJK,762,Coverage of essential health services,2019,70,Total,Units,Index,,Free,,Total
+Tajikistan,TJ,TJK,762,Coverage of essential health services,2021,67,Total,Units,Index,,Free,,Total
+Thailand,TH,THA,764,Coverage of essential health services,2000,43,Total,Units,Index,,Free,,Total
+Thailand,TH,THA,764,Coverage of essential health services,2005,59,Total,Units,Index,,Free,,Total
+Thailand,TH,THA,764,Coverage of essential health services,2010,68,Total,Units,Index,,Free,,Total
+Thailand,TH,THA,764,Coverage of essential health services,2015,76,Total,Units,Index,,Free,,Total
+Thailand,TH,THA,764,Coverage of essential health services,2017,81,Total,Units,Index,,Free,,Total
+Thailand,TH,THA,764,Coverage of essential health services,2019,82,Total,Units,Index,,Free,,Total
+Thailand,TH,THA,764,Coverage of essential health services,2021,82,Total,Units,Index,,Free,,Total
+Timor-Leste,TL,TLS,626,Coverage of essential health services,2000,28,Total,Units,Index,,Free,,Total
+Timor-Leste,TL,TLS,626,Coverage of essential health services,2005,31,Total,Units,Index,,Free,,Total
+Timor-Leste,TL,TLS,626,Coverage of essential health services,2010,41,Total,Units,Index,,Free,,Total
+Timor-Leste,TL,TLS,626,Coverage of essential health services,2015,47,Total,Units,Index,,Free,,Total
+Timor-Leste,TL,TLS,626,Coverage of essential health services,2017,50,Total,Units,Index,,Free,,Total
+Timor-Leste,TL,TLS,626,Coverage of essential health services,2019,50,Total,Units,Index,,Free,,Total
+Timor-Leste,TL,TLS,626,Coverage of essential health services,2021,52,Total,Units,Index,,Free,,Total
+Togo,TG,TGO,768,Coverage of essential health services,2000,19,Total,Units,Index,,Free,,Total
+Togo,TG,TGO,768,Coverage of essential health services,2005,25,Total,Units,Index,,Free,,Total
+Togo,TG,TGO,768,Coverage of essential health services,2010,30,Total,Units,Index,,Free,,Total
+Togo,TG,TGO,768,Coverage of essential health services,2015,40,Total,Units,Index,,Free,,Total
+Togo,TG,TGO,768,Coverage of essential health services,2017,43,Total,Units,Index,,Free,,Total
+Togo,TG,TGO,768,Coverage of essential health services,2019,41,Total,Units,Index,,Free,,Total
+Togo,TG,TGO,768,Coverage of essential health services,2021,44,Total,Units,Index,,Free,,Total
+Tonga,TO,TON,776,Coverage of essential health services,2000,43,Total,Units,Index,,Free,,Total
+Tonga,TO,TON,776,Coverage of essential health services,2005,45,Total,Units,Index,,Free,,Total
+Tonga,TO,TON,776,Coverage of essential health services,2010,53,Total,Units,Index,,Free,,Total
+Tonga,TO,TON,776,Coverage of essential health services,2015,54,Total,Units,Index,,Free,,Total
+Tonga,TO,TON,776,Coverage of essential health services,2017,56,Total,Units,Index,,Free,,Total
+Tonga,TO,TON,776,Coverage of essential health services,2019,57,Total,Units,Index,,Free,,Total
+Tonga,TO,TON,776,Coverage of essential health services,2021,57,Total,Units,Index,,Free,,Total
+Trinidad and Tobago,TT,TTO,780,Coverage of essential health services,2000,53,Total,Units,Index,,Free,,Total
+Trinidad and Tobago,TT,TTO,780,Coverage of essential health services,2005,66,Total,Units,Index,,Free,,Total
+Trinidad and Tobago,TT,TTO,780,Coverage of essential health services,2010,72,Total,Units,Index,,Free,,Total
+Trinidad and Tobago,TT,TTO,780,Coverage of essential health services,2015,77,Total,Units,Index,,Free,,Total
+Trinidad and Tobago,TT,TTO,780,Coverage of essential health services,2017,77,Total,Units,Index,,Free,,Total
+Trinidad and Tobago,TT,TTO,780,Coverage of essential health services,2019,76,Total,Units,Index,,Free,,Total
+Trinidad and Tobago,TT,TTO,780,Coverage of essential health services,2021,75,Total,Units,Index,,Free,,Total
+Tunisia,TN,TUN,788,Coverage of essential health services,2000,44,Total,Units,Index,,Free,,Total
+Tunisia,TN,TUN,788,Coverage of essential health services,2005,58,Total,Units,Index,,Free,,Total
+Tunisia,TN,TUN,788,Coverage of essential health services,2010,61,Total,Units,Index,,Free,,Total
+Tunisia,TN,TUN,788,Coverage of essential health services,2015,63,Total,Units,Index,,Free,,Total
+Tunisia,TN,TUN,788,Coverage of essential health services,2017,65,Total,Units,Index,,Free,,Total
+Tunisia,TN,TUN,788,Coverage of essential health services,2019,68,Total,Units,Index,,Free,,Total
+Tunisia,TN,TUN,788,Coverage of essential health services,2021,67,Total,Units,Index,,Free,,Total
+Turkmenistan,TM,TKM,795,Coverage of essential health services,2000,54,Total,Units,Index,,Free,,Total
+Turkmenistan,TM,TKM,795,Coverage of essential health services,2005,62,Total,Units,Index,,Free,,Total
+Turkmenistan,TM,TKM,795,Coverage of essential health services,2010,68,Total,Units,Index,,Free,,Total
+Turkmenistan,TM,TKM,795,Coverage of essential health services,2015,72,Total,Units,Index,,Free,,Total
+Turkmenistan,TM,TKM,795,Coverage of essential health services,2017,73,Total,Units,Index,,Free,,Total
+Turkmenistan,TM,TKM,795,Coverage of essential health services,2019,74,Total,Units,Index,,Free,,Total
+Turkmenistan,TM,TKM,795,Coverage of essential health services,2021,75,Total,Units,Index,,Free,,Total
+Tuvalu,TV,TUV,798,Coverage of essential health services,2000,37,Total,Units,Index,,Free,,Total
+Tuvalu,TV,TUV,798,Coverage of essential health services,2005,40,Total,Units,Index,,Free,,Total
+Tuvalu,TV,TUV,798,Coverage of essential health services,2010,49,Total,Units,Index,,Free,,Total
+Tuvalu,TV,TUV,798,Coverage of essential health services,2015,52,Total,Units,Index,,Free,,Total
+Tuvalu,TV,TUV,798,Coverage of essential health services,2017,52,Total,Units,Index,,Free,,Total
+Tuvalu,TV,TUV,798,Coverage of essential health services,2019,52,Total,Units,Index,,Free,,Total
+Tuvalu,TV,TUV,798,Coverage of essential health services,2021,52,Total,Units,Index,,Free,,Total
+Turkey,TR,TUR,792,Coverage of essential health services,2000,57,Total,Units,Index,,Free,,Total
+Turkey,TR,TUR,792,Coverage of essential health services,2005,64,Total,Units,Index,,Free,,Total
+Turkey,TR,TUR,792,Coverage of essential health services,2010,66,Total,Units,Index,,Free,,Total
+Turkey,TR,TUR,792,Coverage of essential health services,2015,76,Total,Units,Index,,Free,,Total
+Turkey,TR,TUR,792,Coverage of essential health services,2017,77,Total,Units,Index,,Free,,Total
+Turkey,TR,TUR,792,Coverage of essential health services,2019,77,Total,Units,Index,,Free,,Total
+Turkey,TR,TUR,792,Coverage of essential health services,2021,76,Total,Units,Index,,Free,,Total
+Uganda,UG,UGA,800,Coverage of essential health services,2000,22,Total,Units,Index,,Free,,Total
+Uganda,UG,UGA,800,Coverage of essential health services,2005,28,Total,Units,Index,,Free,,Total
+Uganda,UG,UGA,800,Coverage of essential health services,2010,36,Total,Units,Index,,Free,,Total
+Uganda,UG,UGA,800,Coverage of essential health services,2015,43,Total,Units,Index,,Free,,Total
+Uganda,UG,UGA,800,Coverage of essential health services,2017,46,Total,Units,Index,,Free,,Total
+Uganda,UG,UGA,800,Coverage of essential health services,2019,48,Total,Units,Index,,Free,,Total
+Uganda,UG,UGA,800,Coverage of essential health services,2021,49,Total,Units,Index,,Free,,Total
+Ukraine,UA,UKR,804,Coverage of essential health services,2000,53,Total,Units,Index,,Free,,Total
+Ukraine,UA,UKR,804,Coverage of essential health services,2005,54,Total,Units,Index,,Free,,Total
+Ukraine,UA,UKR,804,Coverage of essential health services,2010,65,Total,Units,Index,,Free,,Total
+Ukraine,UA,UKR,804,Coverage of essential health services,2015,69,Total,Units,Index,,Free,,Total
+Ukraine,UA,UKR,804,Coverage of essential health services,2017,71,Total,Units,Index,,Free,,Total
+Ukraine,UA,UKR,804,Coverage of essential health services,2019,77,Total,Units,Index,,Free,,Total
+Ukraine,UA,UKR,804,Coverage of essential health services,2021,76,Total,Units,Index,,Free,,Total
+United Arab Emirates,AE,ARE,784,Coverage of essential health services,2000,48,Total,Units,Index,,Free,,Total
+United Arab Emirates,AE,ARE,784,Coverage of essential health services,2005,59,Total,Units,Index,,Free,,Total
+United Arab Emirates,AE,ARE,784,Coverage of essential health services,2010,62,Total,Units,Index,,Free,,Total
+United Arab Emirates,AE,ARE,784,Coverage of essential health services,2015,72,Total,Units,Index,,Free,,Total
+United Arab Emirates,AE,ARE,784,Coverage of essential health services,2017,73,Total,Units,Index,,Free,,Total
+United Arab Emirates,AE,ARE,784,Coverage of essential health services,2019,75,Total,Units,Index,,Free,,Total
+United Arab Emirates,AE,ARE,784,Coverage of essential health services,2021,82,Total,Units,Index,,Free,,Total
+United Kingdom,GB,GBR,826,Coverage of essential health services,2000,72,Total,Units,Index,,Free,,Total
+United Kingdom,GB,GBR,826,Coverage of essential health services,2005,79,Total,Units,Index,,Free,,Total
+United Kingdom,GB,GBR,826,Coverage of essential health services,2010,83,Total,Units,Index,,Free,,Total
+United Kingdom,GB,GBR,826,Coverage of essential health services,2015,85,Total,Units,Index,,Free,,Total
+United Kingdom,GB,GBR,826,Coverage of essential health services,2017,86,Total,Units,Index,,Free,,Total
+United Kingdom,GB,GBR,826,Coverage of essential health services,2019,87,Total,Units,Index,,Free,,Total
+United Kingdom,GB,GBR,826,Coverage of essential health services,2021,88,Total,Units,Index,,Free,,Total
+"Tanzania, United Republic of",TZ,TZA,834,Coverage of essential health services,2000,20,Total,Units,Index,,Free,,Total
+"Tanzania, United Republic of",TZ,TZA,834,Coverage of essential health services,2005,23,Total,Units,Index,,Free,,Total
+"Tanzania, United Republic of",TZ,TZA,834,Coverage of essential health services,2010,33,Total,Units,Index,,Free,,Total
+"Tanzania, United Republic of",TZ,TZA,834,Coverage of essential health services,2015,38,Total,Units,Index,,Free,,Total
+"Tanzania, United Republic of",TZ,TZA,834,Coverage of essential health services,2017,40,Total,Units,Index,,Free,,Total
+"Tanzania, United Republic of",TZ,TZA,834,Coverage of essential health services,2019,42,Total,Units,Index,,Free,,Total
+"Tanzania, United Republic of",TZ,TZA,834,Coverage of essential health services,2021,43,Total,Units,Index,,Free,,Total
+United States,US,USA,840,Coverage of essential health services,2000,78,Total,Units,Index,,Free,,Total
+United States,US,USA,840,Coverage of essential health services,2005,81,Total,Units,Index,,Free,,Total
+United States,US,USA,840,Coverage of essential health services,2010,83,Total,Units,Index,,Free,,Total
+United States,US,USA,840,Coverage of essential health services,2015,85,Total,Units,Index,,Free,,Total
+United States,US,USA,840,Coverage of essential health services,2017,86,Total,Units,Index,,Free,,Total
+United States,US,USA,840,Coverage of essential health services,2019,85,Total,Units,Index,,Free,,Total
+United States,US,USA,840,Coverage of essential health services,2021,86,Total,Units,Index,,Free,,Total
+Uruguay,UY,URY,858,Coverage of essential health services,2000,65,Total,Units,Index,,Free,,Total
+Uruguay,UY,URY,858,Coverage of essential health services,2005,70,Total,Units,Index,,Free,,Total
+Uruguay,UY,URY,858,Coverage of essential health services,2010,78,Total,Units,Index,,Free,,Total
+Uruguay,UY,URY,858,Coverage of essential health services,2015,81,Total,Units,Index,,Free,,Total
+Uruguay,UY,URY,858,Coverage of essential health services,2017,82,Total,Units,Index,,Free,,Total
+Uruguay,UY,URY,858,Coverage of essential health services,2019,83,Total,Units,Index,,Free,,Total
+Uruguay,UY,URY,858,Coverage of essential health services,2021,82,Total,Units,Index,,Free,,Total
+Uzbekistan,UZ,UZB,860,Coverage of essential health services,2000,55,Total,Units,Index,,Free,,Total
+Uzbekistan,UZ,UZB,860,Coverage of essential health services,2005,56,Total,Units,Index,,Free,,Total
+Uzbekistan,UZ,UZB,860,Coverage of essential health services,2010,68,Total,Units,Index,,Free,,Total
+Uzbekistan,UZ,UZB,860,Coverage of essential health services,2015,73,Total,Units,Index,,Free,,Total
+Uzbekistan,UZ,UZB,860,Coverage of essential health services,2017,74,Total,Units,Index,,Free,,Total
+Uzbekistan,UZ,UZB,860,Coverage of essential health services,2019,75,Total,Units,Index,,Free,,Total
+Uzbekistan,UZ,UZB,860,Coverage of essential health services,2021,75,Total,Units,Index,,Free,,Total
+Vanuatu,VU,VUT,548,Coverage of essential health services,2000,31,Total,Units,Index,,Free,,Total
+Vanuatu,VU,VUT,548,Coverage of essential health services,2005,31,Total,Units,Index,,Free,,Total
+Vanuatu,VU,VUT,548,Coverage of essential health services,2010,38,Total,Units,Index,,Free,,Total
+Vanuatu,VU,VUT,548,Coverage of essential health services,2015,45,Total,Units,Index,,Free,,Total
+Vanuatu,VU,VUT,548,Coverage of essential health services,2017,44,Total,Units,Index,,Free,,Total
+Vanuatu,VU,VUT,548,Coverage of essential health services,2019,46,Total,Units,Index,,Free,,Total
+Vanuatu,VU,VUT,548,Coverage of essential health services,2021,47,Total,Units,Index,,Free,,Total
+"Venezuela, Bolivarian Republic of",VE,VEN,862,Coverage of essential health services,2000,49,Total,Units,Index,,Free,,Total
+Venezuela,VE,VEN,862,Coverage of essential health services,2000,49,Total,Units,Index,,Free,,Total
+"Venezuela, Bolivarian Republic of",VE,VEN,862,Coverage of essential health services,2005,60,Total,Units,Index,,Free,,Total
+Venezuela,VE,VEN,862,Coverage of essential health services,2005,60,Total,Units,Index,,Free,,Total
+"Venezuela, Bolivarian Republic of",VE,VEN,862,Coverage of essential health services,2010,67,Total,Units,Index,,Free,,Total
+Venezuela,VE,VEN,862,Coverage of essential health services,2010,67,Total,Units,Index,,Free,,Total
+"Venezuela, Bolivarian Republic of",VE,VEN,862,Coverage of essential health services,2015,77,Total,Units,Index,,Free,,Total
+Venezuela,VE,VEN,862,Coverage of essential health services,2015,77,Total,Units,Index,,Free,,Total
+"Venezuela, Bolivarian Republic of",VE,VEN,862,Coverage of essential health services,2017,75,Total,Units,Index,,Free,,Total
+Venezuela,VE,VEN,862,Coverage of essential health services,2017,75,Total,Units,Index,,Free,,Total
+"Venezuela, Bolivarian Republic of",VE,VEN,862,Coverage of essential health services,2019,74,Total,Units,Index,,Free,,Total
+Venezuela,VE,VEN,862,Coverage of essential health services,2019,74,Total,Units,Index,,Free,,Total
+"Venezuela, Bolivarian Republic of",VE,VEN,862,Coverage of essential health services,2021,75,Total,Units,Index,,Free,,Total
+Venezuela,VE,VEN,862,Coverage of essential health services,2021,75,Total,Units,Index,,Free,,Total
+Viet Nam,VN,VNM,704,Coverage of essential health services,2000,37,Total,Units,Index,,Free,,Total
+Vietnam,VN,VNM,704,Coverage of essential health services,2000,37,Total,Units,Index,,Free,,Total
+Viet Nam,VN,VNM,704,Coverage of essential health services,2005,44,Total,Units,Index,,Free,,Total
+Vietnam,VN,VNM,704,Coverage of essential health services,2005,44,Total,Units,Index,,Free,,Total
+Viet Nam,VN,VNM,704,Coverage of essential health services,2010,59,Total,Units,Index,,Free,,Total
+Vietnam,VN,VNM,704,Coverage of essential health services,2010,59,Total,Units,Index,,Free,,Total
+Viet Nam,VN,VNM,704,Coverage of essential health services,2015,68,Total,Units,Index,,Free,,Total
+Vietnam,VN,VNM,704,Coverage of essential health services,2015,68,Total,Units,Index,,Free,,Total
+Viet Nam,VN,VNM,704,Coverage of essential health services,2017,70,Total,Units,Index,,Free,,Total
+Vietnam,VN,VNM,704,Coverage of essential health services,2017,70,Total,Units,Index,,Free,,Total
+Viet Nam,VN,VNM,704,Coverage of essential health services,2019,69,Total,Units,Index,,Free,,Total
+Vietnam,VN,VNM,704,Coverage of essential health services,2019,69,Total,Units,Index,,Free,,Total
+Viet Nam,VN,VNM,704,Coverage of essential health services,2021,68,Total,Units,Index,,Free,,Total
+Vietnam,VN,VNM,704,Coverage of essential health services,2021,68,Total,Units,Index,,Free,,Total
+Yemen,YE,YEM,887,Coverage of essential health services,2000,28,Total,Units,Index,,Free,,Total
+Yemen,YE,YEM,887,Coverage of essential health services,2005,30,Total,Units,Index,,Free,,Total
+Yemen,YE,YEM,887,Coverage of essential health services,2010,39,Total,Units,Index,,Free,,Total
+Yemen,YE,YEM,887,Coverage of essential health services,2015,39,Total,Units,Index,,Free,,Total
+Yemen,YE,YEM,887,Coverage of essential health services,2017,41,Total,Units,Index,,Free,,Total
+Yemen,YE,YEM,887,Coverage of essential health services,2019,42,Total,Units,Index,,Free,,Total
+Yemen,YE,YEM,887,Coverage of essential health services,2021,42,Total,Units,Index,,Free,,Total
+Zambia,ZM,ZMB,894,Coverage of essential health services,2000,28,Total,Units,Index,,Free,,Total
+Zambia,ZM,ZMB,894,Coverage of essential health services,2005,34,Total,Units,Index,,Free,,Total
+Zambia,ZM,ZMB,894,Coverage of essential health services,2010,45,Total,Units,Index,,Free,,Total
+Zambia,ZM,ZMB,894,Coverage of essential health services,2015,52,Total,Units,Index,,Free,,Total
+Zambia,ZM,ZMB,894,Coverage of essential health services,2017,53,Total,Units,Index,,Free,,Total
+Zambia,ZM,ZMB,894,Coverage of essential health services,2019,54,Total,Units,Index,,Free,,Total
+Zambia,ZM,ZMB,894,Coverage of essential health services,2021,56,Total,Units,Index,,Free,,Total
+Zimbabwe,ZW,ZWE,716,Coverage of essential health services,2000,30,Total,Units,Index,,Free,,Total
+Zimbabwe,ZW,ZWE,716,Coverage of essential health services,2005,31,Total,Units,Index,,Free,,Total
+Zimbabwe,ZW,ZWE,716,Coverage of essential health services,2010,46,Total,Units,Index,,Free,,Total
+Zimbabwe,ZW,ZWE,716,Coverage of essential health services,2015,56,Total,Units,Index,,Free,,Total
+Zimbabwe,ZW,ZWE,716,Coverage of essential health services,2017,57,Total,Units,Index,,Free,,Total
+Zimbabwe,ZW,ZWE,716,Coverage of essential health services,2019,55,Total,Units,Index,,Free,,Total
+Zimbabwe,ZW,ZWE,716,Coverage of essential health services,2021,55,Total,Units,Index,,Free,,Total
